@@ -2,12 +2,16 @@
 
 ## Table of contents and reading order
 
+### Source edition
 1. [01 — Searchable Markdown transcription](01-Lalitha_Sahasra_Namamulu_English.md): read and search the romanized Sanskrit, including the preamble, Dhyanam, 183 stanzas, and completion line.
 2. [02 — Original PDF](02-Lalitha_Sahasra_Namamulu_English.pdf): authoritative reference for this edition, including the cover artwork and original layout.
 
+### Teaching and practice references (Guru Karunamaya)
 3. [03 — Guru Karunamaya’s Samputikarana series](03-Guru_Karunamaya_Samputikarana.md): separate teaching reference with English (25), Telugu (31), and Tamil (11) playlist indexes, documented method overview, and Gemini transcript handoff.
 4. [04 — Samputikarana process and English transcripts](04-Samputikarana_Process_and_Transcripts.md): identified YouTube videos explaining Samputikarana in English, captured conversations/transcripts, and the documented 90-day practice process.
 5. [05 — Samputikarana inputs and 8 life-area stanza guide](05-Eight_Life_Areas_Samputikarana_Guide.md): input checklist and stanza/line mappings across 8 life areas (debt, health, job, multiple income, financial freedom, fame, happiness, and life purpose).
+
+### Teaching and practice references (Nanaji Patnaik)
 6. [06 — Nanaji Patnaik 45-minute stanza method & comparison](06-Nanaji_Patnaik_45min_Stanzas_and_Comparison.md): Nanaji Patnaik's 45–48 minute problem-specific *Om ... Namaha* stanza prescriptions and comparison with Guru Karunamaya's Samputikarana method.
 7. [07 — Stanzas Prescribed by Nanaji Patnaik](07-Stanzas_Prescribed_by_Nanaji_Patnaik.md): dedicated stanza catalog verified against this edition's 183 stanzas.
 8. [08 — Nanaji Patnaik: Video `lovnA629Bms`](08-Nanaji_Patnaik_Video_lovnA629Bms_Career_Health_Courage_Business.md): 45-min rule; career (`17/2`), health (`112/2–113/1`), courage (`13/1`), business revival (`18/1`), and 1h vs 23h doubt trap.

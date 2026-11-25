@@ -9,13 +9,20 @@ Canonical source edition, searchable transcription, and structured study/practic
 
 ## Teaching and practice references
 
+### Guru Karunamaya (Samputikarana Method)
 3. [03 — Guru Karunamaya’s Samputikarana series](docs/03-Guru_Karunamaya_Samputikarana.md) *(English [25], Telugu [31], and Tamil [11] playlist indexes, method overview, and companion video index)*
 4. [04 — Samputikarana process and English transcripts](docs/04-Samputikarana_Process_and_Transcripts.md) *(identified explanatory videos, captured transcripts, and 90-day Kumkuma Puja process)*
 5. [05 — Samputikarana inputs and 8 life-area stanza guide](docs/05-Eight_Life_Areas_Samputikarana_Guide.md) *(input checklist, 8-area stanza guide, and practical action plan)*
+
+### Nanaji Patnaik (45–48 Min Problem-Specific Chanting & Astrological Solutions)
 6. [06 — Nanaji Patnaik 45-minute stanza method & comparison](docs/06-Nanaji_Patnaik_45min_Stanzas_and_Comparison.md) *(45–48 minute *Om ... Namaha* japa prescriptions, video index, and comparison with Samputikarana)*
 7. [07 — Stanzas Prescribed by Nanaji Patnaik](docs/07-Stanzas_Prescribed_by_Nanaji_Patnaik.md) *(dedicated stanza catalog verified against this edition's 183 stanzas)*
-8. [08–12 — Nanaji Patnaik Individual Video Guides](docs/README.md#table-of-contents-and-reading-order) *(detailed solution pages for videos `lovnA629Bms`, `VK3W8aFam0s`, `WjNtbkViSRE`, `oALY0nEDtoU`, and `WXM9dnBGHpA`)*
-9. [13 — Nanaji Patnaik Consolidated Solutions Guide](docs/13-Nanaji_Patnaik_Consolidated_Solutions_Guide.md) *(final unified master reference synthesizing all videos, master problem-to-solution matrix, and daily blueprint)*
+8. [08 — Nanaji Patnaik: Video `lovnA629Bms`](docs/08-Nanaji_Patnaik_Video_lovnA629Bms_Career_Health_Courage_Business.md) *(45-min rule; career [17/2], health [112/2–113/1], courage [13/1], business revival [18/1], and 1h vs 23h doubt trap)*
+9. [09 — Nanaji Patnaik: Video `VK3W8aFam0s`](docs/09-Nanaji_Patnaik_Video_VK3W8aFam0s_Debt_Health_Marriage_Happiness.md) *(48-min / 48-day mandala; debt/cashflow [25/1], health [112/2], happiness despite wealth [18/1], marriage [12/2, 21/2])*
+10. [10 — Nanaji Patnaik: Video `WjNtbkViSRE`](docs/10-Nanaji_Patnaik_Video_WjNtbkViSRE_Astrological_Remedies_Debt_Job_Mind.md) *(astrological body-mapping; heavy debt [145/2], career [17/2], wealth [165/1], mind [172/2], speech [77/2])*
+11. [11 — Nanaji Patnaik: Video `oALY0nEDtoU`](docs/11-Nanaji_Patnaik_Video_oALY0nEDtoU_Rules_Pronunciation_27x_Parayanam.md) *(universal access without upadesha, phonetic precision, day vs night chanting, and 27x single-day parayanam)*
+12. [12 — Nanaji Patnaik: Video `WXM9dnBGHpA`](docs/12-Nanaji_Patnaik_Video_WXM9dnBGHpA_Karma_Marriage_Career_Visualization.md) *(past karma, 1-hour japa with active mental visualization [Rupadhyana], and charitable service [Seva])*
+13. [13 — Nanaji Patnaik Consolidated Solutions Guide](docs/13-Nanaji_Patnaik_Consolidated_Solutions_Guide.md) *(final unified master reference synthesizing all videos, master problem-to-solution matrix, and daily blueprint)*
 
 ## Index and project instructions
 
