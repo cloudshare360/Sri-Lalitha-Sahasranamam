@@ -41,7 +41,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 - **Prescribed Mantra Formula (`09:22–09:26`):**
   $$\text{Om Aparnaye Namaha}$$
 - **Name Source:** The divine name **`Aparna`** (*Aparṇā*).
-- **Source PDF Location:** **p. 15, stanza 145, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L506)).
+- **Source PDF Location:** **p. 15, stanza 145, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506)).
 - **Verbatim Text in Source Edition:**
   ```text
   Maheshvari mahakali mahagrasa mahashana
@@ -61,7 +61,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 
 - **Prescribed Mantra Formula (`04:31–05:29`):**
   $$\text{Om Manikya Makutakara Janudvaya Virajitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L100)).
+- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)).
 - **Verbatim Text in Source Edition:**
   ```text
   Kameshagyata saobhagya mardavoru dvayanvita
@@ -82,7 +82,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 
 - **Prescribed Mantra Formula (`08:41–09:00`):**
   $$\text{Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha}$$
-- **Source PDF Location:** **p. 16, stanza 165, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L567)).
+- **Source PDF Location:** **p. 16, stanza 165, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567)).
 - **Verbatim Text in Source Edition:**
   ```text
   Dharmadhara dhanadhyaksha dhanadhanya vivardhini
@@ -102,7 +102,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 - **Prescribed Mantra Formula (`02:43–03:11`):**
   $$\text{Om Manasvinyai Namaha}$$
 - **Name Source:** The sacred name **`Manasvini`** (*Manasvinī*).
-- **Source PDF Location:** **p. 17, stanza 172, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L591)).
+- **Source PDF Location:** **p. 17, stanza 172, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591)).
 - **Verbatim Text in Source Edition:**
   ```text
   Matruka varna rupini vidyadhatri shuvadaprada
@@ -121,7 +121,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 
 - **Prescribed Line (`03:40–04:20`):**
   $$\text{Gynanamudra Gynanagamya Gynanagyneya Svarupini}$$
-- **Source PDF Location:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L612)).
+- **Source PDF Location:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612)).
 - **Verbatim Text in Source Edition:**
   ```text
   Dashamudra samaradhya tripura shrivanshankari
@@ -138,11 +138,11 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 
 | Life Area / Problem | Prescribed Mantra Formula | PDF Reference | Astrological Mechanism |
 | --- | --- | --- | --- |
-| **Heavy Debt Relief** | `Om Aparnaye Namaha` | [p. 15, 145/2](01-Lalitha_Sahasra_Namamulu_English.md#L506) | Severe karmic debt burn (*Aparna tapas*) |
-| **Career & Authority** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md#L100) | 10th House (*Knees / Surya + Karma Sthana*) |
-| **Wealth Multiplication** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | [p. 16, 165/1](01-Lalitha_Sahasra_Namamulu_English.md#L567) | Dharma foundation + sustainable prosperity |
-| **Mental Steadiness** | `Om Manasvinyai Namaha` | [p. 17, 172/2](01-Lalitha_Sahasra_Namamulu_English.md#L591) | Moon (*Chandra*) & Manas purification |
-| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | [p. 17, 179/2](01-Lalitha_Sahasra_Namamulu_English.md#L612) | 2nd House (*Vak Sthana*) & Mercury (*Budha*) |
+| **Heavy Debt Relief** | `Om Aparnaye Namaha` | [p. 15, 145/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) | Severe karmic debt burn (*Aparna tapas*) |
+| **Career & Authority** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | 10th House (*Knees / Surya + Karma Sthana*) |
+| **Wealth Multiplication** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | [p. 16, 165/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) | Dharma foundation + sustainable prosperity |
+| **Mental Steadiness** | `Om Manasvinyai Namaha` | [p. 17, 172/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) | Moon (*Chandra*) & Manas purification |
+| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | [p. 17, 179/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612) | 2nd House (*Vak Sthana*) & Mercury (*Budha*) |
 
 ---
 

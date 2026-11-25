@@ -51,7 +51,7 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 ### 1. Severe Debt & Bankruptcy (*Rina Vimochana*)
 - **Mantra Formula:**
   $$\text{Om Aparnaye Namaha}$$
-- **Source:** Extracted from the name **`Aparna`** on **p. 15, stanza 145, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L506)).
+- **Source:** Extracted from the name **`Aparna`** on **p. 15, stanza 145, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506)).
 - **Verbatim Text:** `Aparna chandika chandamundashura nishudini – 145`
 - **Mechanism:** Sourced from [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`09:22`). Invokes the extreme ascetic tapas of Devi to burn heavy past-life debts (*appulu ekkuvaga unte*).
 - **Practice:** 45–48 min daily until financial relief manifests.
@@ -59,21 +59,21 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 ### 2. Blocked Cashflow & Stalled Wealth (*Dhana Labha*)
 - **Mantra Formula:**
   $$\text{Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha}$$
-- **Source:** **p. 5, stanza 25, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L125)).
+- **Source:** **p. 5, stanza 25, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125)).
 - **Verbatim Text:** `Sampat-kari samaruda sindhura-vraja sevita`
 - **Mechanism:** Sourced from [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`01:44`) and [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`08:37`). Activates the 2nd house of accumulated wealth and commands elephant/Jupiterian energies to unfreeze receivables.
 
 ### 3. Multiplying Ethical Wealth & Sustainable Sustenance
 - **Mantra Formula:**
   $$\text{Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha}$$
-- **Source:** **p. 16, stanza 165, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L567)).
+- **Source:** **p. 16, stanza 165, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567)).
 - **Verbatim Text:** `Dharmadhara dhanadhyaksha dhanadhanya vivardhini`
 - **Mechanism:** Sourced from [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`08:41`). Stresses *Dharma* as the foundation to ensure financial expansion brings lasting family peace.
 
 ### 4. Job Success, Promotions & Professional Authority (*Karma Sthana*)
 - **Mantra Formula:**
   $$\text{Om Manikya Makutakara Janudvaya Virajitaye Namaha}$$
-- **Source:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L100)).
+- **Source:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)).
 - **Verbatim Text:** `Manikya makuta kara janudvaya virajita – 17`
 - **Mechanism:** Sourced from [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`02:32`), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`04:31`), and [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA). Maps Devi's knees (*janudvaya*) to the astrological **10th house (*Karma Sthana*)**, while rubies (*Manikya*) activate Surya (Sun) for government and executive favor.
 - **Practice:** 45 min to 1 hour daily facing East, visualizing red solar ruby radiance.
@@ -81,7 +81,7 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 ### 5. Chronic Disease Relief & Bodily Health
 - **Mantra Formula:**
   $$\text{Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha}$$
-- **Source:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403)).
+- **Source:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
 - **Verbatim Text:** `Sarvavyadhi prashamani sarvamrutyu nivarini – 112 / Agraganya chintyarupa kalikalmasha nashini – 113`
 - **Mechanism:** Sourced from [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`03:02`) and [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`01:07`). Shields against 6th-house illnesses and untimely death.
 - **Companion Short Water Remedy:** Chant `Kreem Achyuta Ananta Govinda` 3 times over drinking water.
@@ -89,40 +89,40 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 ### 6. Business Revival & Inner Peace Despite Wealth
 - **Mantra Formula:**
   $$\text{Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha}$$
-- **Source:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L102)).
+- **Source:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102)).
 - **Verbatim Text:** `Endra-gopa parikshipta smaratunabha janghika`
 - **Mechanism:** Sourced from [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`04:22`) and [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`02:52`). Shanks (*jangha*) govern the 11th house of profits and 5th house of joy. Pair with feeding *gongura* to a cow.
 
 ### 7. Courage, Eliminating Fear & Hesitation
 - **Mantra Formula:**
   $$\text{Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha}$$
-- **Source:** **p. 4, stanza 13, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L87)).
+- **Source:** **p. 4, stanza 13, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87)).
 - **Verbatim Text:** `Kanakangada keyura kamaniya bhujanvita`
 - **Mechanism:** Sourced from [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`03:11`). Arms (*bhuja*) govern the **3rd house (*Dhairya Sthana*)**, destroying stage fright and timidity.
 
 ### 8. Mental Peace, Calming Anxiety & Moon Balance
 - **Mantra Formula:**
   $$\text{Om Manasvinyai Namaha}$$
-- **Source:** Extracted from **`Manasvini`** on **p. 17, stanza 172, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L591)).
+- **Source:** Extracted from **`Manasvini`** on **p. 17, stanza 172, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591)).
 - **Verbatim Text:** `Manasvini manavati maheshi mangalakrutihi – 172`
 - **Mechanism:** Sourced from [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`02:43`). Pacifies afflicted Moon (*Chandra*) and restores deep emotional steadiness.
 
 ### 9. Eloquent Speech, Voice & Communication (*Vak-Shuddhi*)
 - **Mantra Formula:**
   $$\text{Gynanamudra Gyanagamya Gyanagyeya Svarupini}$$
-- **Source:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L612)).
+- **Source:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612)).
 - **Mechanism:** Sourced from [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`03:40`). Governs Mercury (*Budha*) and the 2nd house of speech.
 
 ### 10. Marriage & Spousal Harmony
 - **Mantra Formulas:**
-  1. **Early Marriage:** `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` ([p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md#L85))
-  2. **Spousal Harmony:** `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` ([p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md#L112))
+  1. **Early Marriage:** `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` ([p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85))
+  2. **Spousal Harmony:** `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` ([p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112))
 - **Mechanism:** Sourced from [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`05:38`) and [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) (`07:38`). 48 min to 1 hr daily visualizing Shiva-Shakti union.
 
 ### 11. Overcoming Roadblocks & Fulfilling Desires
 - **Prescribed Verse:**
   $$\text{Mahapadmatavi Sansdha Kadanba Vanavasinee / Sudhasagara Madhyasdha Kamakshi Kamadaeini}$$
-- **Source:** **p. 4, stanza 23** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L117-L118)).
+- **Source:** **p. 4, stanza 23** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118)).
 - **Mechanism:** Sourced from discourse [`tIvmbOn2tUc`](https://www.youtube.com/watch?v=tIvmbOn2tUc).
 
 ---
@@ -131,17 +131,17 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 
 | Problem / Objective | Exact Mantra Formula (`Om ... Namaha`) | PDF Page & Stanza | Line in Transcr. | Primary Videos | Key Mechanism |
 | --- | --- | --- | --- | --- | --- |
-| **Severe Debt Relief** | `Om Aparnaye Namaha` | **p. 15, 145/2** | [506](01-Lalitha_Sahasra_Namamulu_English.md#L506) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | *Aparna* tapas burns deep karmic debt |
-| **Cashflow & Blocked Funds** | `Om Sampatkari Samarudha... Sevitaye Namaha` | **p. 5, 25/1** | [125](01-Lalitha_Sahasra_Namamulu_English.md#L125) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd house wealth + Jupiterian elephants |
-| **Ethical Wealth Expansion** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | **p. 16, 165/1** | [567](01-Lalitha_Sahasra_Namamulu_English.md#L567) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | Dharma foundation + sustainable resources |
-| **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **p. 4, 17/2** | [100](01-Lalitha_Sahasra_Namamulu_English.md#L100) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | 10th House (*Knees*) + Surya ruby crowns |
-| **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | **p. 12, 112/2–113/1** | [401–403](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | 6th house healing + death averter |
-| **Business Revival & Peace** | `Om Indragopa Parikshipta... Janghikaye Namaha` | **p. 4, 18/1** | [102](01-Lalitha_Sahasra_Namamulu_English.md#L102) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | 11th House (*Shanks*) + cow feeding |
-| **Courage & Timidity Relief** | `Om Kanakangada Keyura... Bhujanvitaye Namaha` | **p. 4, 13/1** | [87](01-Lalitha_Sahasra_Namamulu_English.md#L87) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) | 3rd House (*Arms / Dhairya Sthana*) |
-| **Mental Peace & Stability** | `Om Manasvinyai Namaha` | **p. 17, 172/2** | [591](01-Lalitha_Sahasra_Namamulu_English.md#L591) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | Moon (*Chandra*) & Manas ruler |
-| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | **p. 17, 179/2** | [612](01-Lalitha_Sahasra_Namamulu_English.md#L612) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd House speech + Mercury (*Budha*) |
-| **Early Marriage** | `Om Kameshabaddha Mangalya... Kandharayai Namaha` | **p. 4, 12/2** | [85](01-Lalitha_Sahasra_Namamulu_English.md#L85) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Mangalsutra tied by Kameshwara |
-| **Spousal Harmony** | `Om Shivakameshwaran-kastha... Vallabhayai Namaha` | **p. 4, 21/2** | [112](01-Lalitha_Sahasra_Namamulu_English.md#L112) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Lap of Shiva + eternal mutual love |
+| **Severe Debt Relief** | `Om Aparnaye Namaha` | **p. 15, 145/2** | [506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | *Aparna* tapas burns deep karmic debt |
+| **Cashflow & Blocked Funds** | `Om Sampatkari Samarudha... Sevitaye Namaha` | **p. 5, 25/1** | [125](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd house wealth + Jupiterian elephants |
+| **Ethical Wealth Expansion** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | **p. 16, 165/1** | [567](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | Dharma foundation + sustainable resources |
+| **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **p. 4, 17/2** | [100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | 10th House (*Knees*) + Surya ruby crowns |
+| **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | **p. 12, 112/2–113/1** | [401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | 6th house healing + death averter |
+| **Business Revival & Peace** | `Om Indragopa Parikshipta... Janghikaye Namaha` | **p. 4, 18/1** | [102](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | 11th House (*Shanks*) + cow feeding |
+| **Courage & Timidity Relief** | `Om Kanakangada Keyura... Bhujanvitaye Namaha` | **p. 4, 13/1** | [87](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) | 3rd House (*Arms / Dhairya Sthana*) |
+| **Mental Peace & Stability** | `Om Manasvinyai Namaha` | **p. 17, 172/2** | [591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | Moon (*Chandra*) & Manas ruler |
+| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | **p. 17, 179/2** | [612](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd House speech + Mercury (*Budha*) |
+| **Early Marriage** | `Om Kameshabaddha Mangalya... Kandharayai Namaha` | **p. 4, 12/2** | [85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Mangalsutra tied by Kameshwara |
+| **Spousal Harmony** | `Om Shivakameshwaran-kastha... Vallabhayai Namaha` | **p. 4, 21/2** | [112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Lap of Shiva + eternal mutual love |
 | **Emergency Crisis Removal** | 27x Complete Parayanam in Single Day | Stanzas 1–183 | [1–630](01-Lalitha_Sahasra_Namamulu_English.md) | [`oALY0nEDtoU`](https://www.youtube.com/watch?v=oALY0nEDtoU) | High-potency lunar days (Pournami, etc.) |
 
 ---

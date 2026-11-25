@@ -54,13 +54,13 @@ Nanaji teaches that chanting the Sanskrit syllables with the vocal cords alone p
 - **Prescribed Mantra Formulas (`07:38–09:04`):**
   1. **Primary Marriage Formula:**
      $$\text{Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha}$$
-     *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L85))*
+     *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85))*
      - *Verbatim:* `Kamesha bada mangalya sutra-shobhita kandhara – 12`
      - *Derived IAST:* *Kāmeśabaddha-māṅgalya-sūtra-śobhita-kandharā*
      - *Visualization Technique:* Close your eyes and visualize the divine wedding (*Kalyana Mahotsava*) of Shiva and Parvati. See Lord Kameshwara tying the sacred Mangalsutra around the Mother's neck. Hold the feeling that your own upcoming marriage is sanctified under Their direct protection.
   2. **Harmonious Union & Companion Formula:**
      $$\text{Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha}$$
-     *(Source: p. 4, stanza 21, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L112))*
+     *(Source: p. 4, stanza 21, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112))*
      - *Verbatim:* `Shivakameshvarankasdha shiva svadhinavallabha – 21`
      - *Derived IAST:* *Śivakāmeśvarāṅkasthā śiva-svādhīna-vallabhā*
      - *Visualization Technique:* Visualize the divine mother seated serenely in loving harmony on the lap of Lord Shiva, radiating total trust, mutual respect, and eternal devotion.
@@ -74,7 +74,7 @@ Nanaji teaches that chanting the Sanskrit syllables with the vocal cords alone p
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Manikya Makutakara Janudvaya Virajitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L100)).
+- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)).
 - **Verbatim Text in Source Edition:**
   ```text
   Kameshagyata saobhagya mardavoru dvayanvita
@@ -106,9 +106,9 @@ Nanaji emphasizes that prayer must be accompanied by practical karmic balance. T
 
 | Life Area | Prescribed Formula | PDF Reference | Specific Visualization & Action |
 | --- | --- | --- | --- |
-| **Marriage Obstacles** | `Om Kameshabaddha Mangalya Sutra... Namaha` | [p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md#L85) | Visualize Shiva-Shakti divine marriage; 1 hr daily |
-| **Marital Harmony** | `Om Shivakameshwaran-kastha... Namaha` | [p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md#L112) | Visualize mutual divine devotion on Shiva's lap |
-| **Career Karma** | `Om Manikya Makutakara Janudvaya... Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md#L100) | Visualize ruby-crowned knees radiating solar energy |
+| **Marriage Obstacles** | `Om Kameshabaddha Mangalya Sutra... Namaha` | [p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | Visualize Shiva-Shakti divine marriage; 1 hr daily |
+| **Marital Harmony** | `Om Shivakameshwaran-kastha... Namaha` | [p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | Visualize mutual divine devotion on Shiva's lap |
+| **Career Karma** | `Om Manikya Makutakara Janudvaya... Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | Visualize ruby-crowned knees radiating solar energy |
 | **Karmic Counterweight** | Selfless Service (*Seva*) | — | Feed cows, help underprivileged weddings/students |
 
 ---

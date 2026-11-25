@@ -58,7 +58,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Name Source** | `Aparna` (She who performed tapas without even a leaf/parna) |
 | **PDF Location** | **p. 15, stanza 145, line 2** |
 | **Verbatim Source Text** | `Maheshvari mahakali mahagrasa mahashana`<br>`Aparna chandika chandamundashura nishudini – 145` |
-| **Transcription Link** | [Line 506](01-Lalitha_Sahasra_Namamulu_English.md#L506) |
+| **Transcription Link** | [Line 506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) |
 | **Primary Video** | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (09:22–09:26) |
 | **Mechanism** | Invokes Devi's extreme ascetic tapas (Aparna) to burn heavy past-life karmic debts (appulu ekkuvaga unte) |
 | **Practice** | 45–48 min daily until financial relief manifests |
@@ -73,7 +73,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` |
 | **PDF Location** | **p. 5, stanza 25, line 1** |
 | **Verbatim Source Text** | `Sampat-kari samaruda sindhura-vraja sevita`<br>`Asvarudadhishtitasva koti bhiravruta – 25` |
-| **Transcription Link** | [Line 125](01-Lalitha_Sahasra_Namamulu_English.md#L125) |
+| **Transcription Link** | [Line 125](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) |
 | **Primary Videos** | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (01:44–02:51), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (08:37) |
 | **Mechanism** | Activates 2nd house (dhana sthana) of accumulated wealth; Sampatkari Devi commands elephant (Jupiter/Guru) energies to unfreeze receivables |
 | **Practice** | 48 min daily for 48-day mandala |
@@ -88,7 +88,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha` |
 | **PDF Location** | **p. 16, stanza 165, line 1** |
 | **Verbatim Source Text** | `Dharmadhara dhanadhyaksha dhanadhanya vivardhini`<br>`Viprapriya viprarupa vishvabhramana karini – 165` |
-| **Transcription Link** | [Line 567](01-Lalitha_Sahasra_Namamulu_English.md#L567) |
+| **Transcription Link** | [Line 567](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) |
 | **Primary Video** | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (08:41–09:00) |
 | **Mechanism** | Dharma (righteousness) as foundation; ensures wealth expansion brings lasting family peace and honor |
 | **Practice** | 45–48 min daily; Nanaji stresses sequence: Dharma → Dhana → Dhanya |
@@ -103,7 +103,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` |
 | **PDF Location** | **p. 4, stanza 17, line 2** |
 | **Verbatim Source Text** | `Kameshagyata saobhagya mardavoru dvayanvita`<br>`Manikya makuta kara janudvaya virajita – 17` |
-| **Transcription Link** | [Line 100](01-Lalitha_Sahasra_Namamulu_English.md#L100) |
+| **Transcription Link** | [Line 100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) |
 | **Primary Videos** | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (02:32–02:41), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (04:31–05:29), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) |
 | **Mechanism** | Knees (janu) = 10th house (Karma Sthana) in Kalapurusha Tatva; Ruby crowns (Manikya) = Surya (Sun) for government/executive favor |
 | **Visualization** | Devi's knees glowing with radiant ruby crowns; red solar light entering crown & 10th house (`WXM9dnBGHpA` 08:15–09:04) |
@@ -119,7 +119,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha` |
 | **PDF Location** | **p. 12, stanza 112 line 2 – stanza 113 line 1** |
 | **Verbatim Source Text** | `Sarvavyadhi prashamani sarvamrutyu nivarini – 112`<br>`Agraganya chintyarupa kalikalmasha nashini – 113` |
-| **Transcription Link** | [Lines 401–403](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403) |
+| **Transcription Link** | [Lines 401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) |
 | **Primary Videos** | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (03:02–03:07), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (01:07–01:25) |
 | **Mechanism** | Shields 6th house (disease/debts) and 4th house (heart/chest/vitality); averts untimely death |
 | **Short Water Remedy** | `Kreem Achyuta Ananta Govinda` ×3 over drinking water/food if too weak for full verse (`lovnA629Bms` 03:02) |
@@ -135,7 +135,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` |
 | **PDF Location** | **p. 4, stanza 18, line 1** |
 | **Verbatim Source Text** | `Endra-gopa parikshipta smaratunabha janghika`<br>`Guda-gulpha kurma-prushta jayishnu prapadanvita – 18` |
-| **Transcription Link** | [Line 102](01-Lalitha_Sahasra_Namamulu_English.md#L102) |
+| **Transcription Link** | [Line 102](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) |
 | **Primary Videos** | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (04:22–04:35), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (02:52–04:52) |
 | **Mechanism** | Shanks (jangha) = 11th house (Labha Sthana = profits/cash inflow) + 5th house (joy/Purva Punya); resolves paradox of wealth without peace |
 | **Remedy Pairing** | Feed **gongura (sorrel leaves) or green fodder to a cow** (Go-seva) to activate Shukra/Kamadhenu energy (`lovnA629Bms` 04:22) |
@@ -151,7 +151,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` |
 | **PDF Location** | **p. 4, stanza 13, line 1** |
 | **Verbatim Source Text** | `Kanakangada keyura kamaniya bhujanvita`<br>`Ratnagre-veya chintaka lola mukta phalanvita – 13` |
-| **Transcription Link** | [Line 87](01-Lalitha_Sahasra_Namamulu_English.md#L87) |
+| **Transcription Link** | [Line 87](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) |
 | **Primary Video** | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (03:11–03:27) |
 | **Mechanism** | Arms (bhuja) = 3rd house (Bhratru & Dhairya Sthana) = courage, initiative, valor; golden ornaments infuse fortitude |
 | **Practice** | 45 min daily for stage fright, fear of authority, hesitation before action |
@@ -167,7 +167,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Name Source** | `Manasvini` (Supreme ruler of mind, endowed with great intellect) |
 | **PDF Location** | **p. 17, stanza 172, line 2** |
 | **Verbatim Source Text** | `Matruka varna rupini vidyadhatri shuvadaprada`<br>`Manasvini manavati maheshi mangalakrutihi – 172` |
-| **Transcription Link** | [Line 591](01-Lalitha_Sahasra_Namamulu_English.md#L591) |
+| **Transcription Link** | [Line 591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) |
 | **Primary Video** | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (02:43–03:11) |
 | **Mechanism** | Manas (mind) ruled by Moon (Chandra); pacifies lunar afflictions (Rahu/Saturn/Ketu on Moon); regard own mind as consecrated altar of Mother |
 | **Practice** | 45–48 min daily for anxiety, depression, mood swings, mental restlessness |
@@ -182,7 +182,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` |
 | **PDF Location** | **p. 17, stanza 179, line 2** |
 | **Verbatim Source Text** | `Dashamudra samaradhya tripura shrivanshankari`<br>`Gynanamudra gynanagamya gynanagyneya svarupini – 179` |
-| **Transcription Link** | [Line 612](01-Lalitha_Sahasra_Namamulu_English.md#L612) |
+| **Transcription Link** | [Line 612](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612) |
 | **Primary Video** | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (03:40–04:20) |
 | **Mechanism** | Governs 2nd house (Vak Sthana = speech) and Mercury (Budha); develops attractive, authoritative, melodious speaking style |
 | **Practice** | Recite as contemplation/chant; for teachers, counselors, leaders, advocates |
@@ -201,7 +201,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` |
 | **PDF Location** | **p. 6, stanza 39, line 1** |
 | **Verbatim Source Text** | `Aagyna-chakrantaralasdha rudra-grandhi vibhedini`<br>`Sahasraranbujaruda sudhasarabhivarshinee – 39` |
-| **Transcription Link** | [Line 169](01-Lalitha_Sahasra_Namamulu_English.md#L169) |
+| **Transcription Link** | [Line 169](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L169) |
 | **Derived IAST** | *Ājñā-cakrāntarālasthā rudra-grandhi-vibhedinī* |
 | **Literal Meaning** | *"She who pierces/shatters the Rudra Grandhi (knot) situated in the inner space of the Ajna Chakra."* |
 | **Mechanism** | The **Ajna Chakra** (command center, third eye) is located at the mid-brow point between the eyebrows. It governs the pituitary gland, hypothalamus, optic nerves, and higher brain functions. The **Rudra Grandhi** (Rudra's knot) at this chakra represents deep-seated mental/emotional blockages that manifest as chronic headaches, migraines, neurological tension, and perceptual distortions. Piercing this knot releases pranic congestion in the head region. |
@@ -215,7 +215,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` |
 | **PDF Location** | **p. 12, stanza 119, line 2** |
 | **Verbatim Source Text** | `Katakshakinkaribhuta kamala kotisevita`<br>`Shirasdhita chandranibha phalasdhendra dhanuh prabha –119` |
-| **Transcription Link** | [Line 422](01-Lalitha_Sahasra_Namamulu_English.md#L422) |
+| **Transcription Link** | [Line 422](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L422) |
 | **Derived IAST** | *Śirastithā candranibhā phala-śrī-indra-dhanuḥ-prabhā* |
 | **Literal Meaning** | *"Seated upon the head (Śiras), radiant as the moon (Candranibhā), with the brilliance of Indra's rainbow bow (Indra-dhanus)."* |
 | **Mechanism** | **Śiras** = head, crown, skull. This name places the Goddess directly on the cranial vault, her moon-cool radiance soothing cerebral inflammation, vascular throbbing (migraine mechanism), and neural hypersensitivity. The *Indra-dhanus* (rainbow) symbolizes harmonized pranic spectrum across the brain. |
@@ -229,7 +229,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` |
 | **PDF Location** | **p. 3, stanza 5, line 2** |
 | **Verbatim Source Text** | `Ashtami chandra vibhraja dalikasdhala shobhita`<br>`Mukha-chandra kalankabha mruga-nabhi visheshaka – 5` |
-| **Transcription Link** | [Line 62](01-Lalitha_Sahasra_Namamulu_English.md#L62) |
+| **Transcription Link** | [Line 62](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L62) |
 | **Derived IAST** | *Mukha-candrakalaṅkābhā mṛga-nābhi-viśeṣakā* |
 | **Literal Meaning** | *"Whose face shines like the spotless moon (Mukha-candra), with a distinctive beauty like a deer's navel (Mṛga-nābhi)."* |
 | **Mechanism** | *Mukha-chandra* = "face-moon" — the cooling lunar principle applied to the facial region (sinuses, eyes, temples, jaw). Many migraines involve sinus pressure, eye-strain, or temporomandibular tension; invoking the "spotless moon on the face" pacifies Pitta heat in the sensory organs. |
@@ -239,9 +239,9 @@ Om + [Stanza/Name in Dative Case] + Namaha
 
 | # | Target | Mantra Formula (Om...Namaha) | PDF Page & Stanza | Transcription Line | Chakra / Body Map |
 |---|--------|------------------------------|-------------------|---------------------|-------------------|
-| 10A | **Ajna Chakra / Rudra Grandhi** (mid-brow, pituitary, deep neurological knots) | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | p. 6, 39/1 | [169](01-Lalitha_Sahasra_Namamulu_English.md#L169) | **Ajna Chakra** (3rd eye) |
-| 10B | **Crown / Cerebral Vault** (vascular throbbing, cranial inflammation) | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | p. 12, 119/2 | [422](01-Lalitha_Sahasra_Namamulu_English.md#L422) | **Sahasrara / Shiras** (crown) |
-| 10C | **Face / Sensory Organs** (sinuses, eyes, temples, TMJ) | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | p. 3, 5/2 | [62](01-Lalitha_Sahasra_Namamulu_English.md#L62) | **Face / Senses** (2nd house) |
+| 10A | **Ajna Chakra / Rudra Grandhi** (mid-brow, pituitary, deep neurological knots) | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | p. 6, 39/1 | [169](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L169) | **Ajna Chakra** (3rd eye) |
+| 10B | **Crown / Cerebral Vault** (vascular throbbing, cranial inflammation) | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | p. 12, 119/2 | [422](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L422) | **Sahasrara / Shiras** (crown) |
+| 10C | **Face / Sensory Organs** (sinuses, eyes, temples, TMJ) | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | p. 3, 5/2 | [62](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L62) | **Face / Senses** (2nd house) |
 
 #### Suggested Practice for Migraine
 - **Primary Formula:** Choose **one** based on symptom profile: 10A for chronic/neurological, 10B for vascular/throbbing, 10C for sinus/facial/ocular.
@@ -261,7 +261,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` |
 | **PDF Location** | **p. 4, stanza 12, line 2** |
 | **Verbatim Source Text** | `Kamesha bada mangalya sutra-shobhita kandhara – 12` |
-| **Transcription Link** | [Line 85](01-Lalitha_Sahasra_Namamulu_English.md#L85) |
+| **Transcription Link** | [Line 85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) |
 | **Meaning** | "Whose neck is adorned with the sacred mangalsutra tied by Lord Kameshwara" |
 | **Primary Videos** | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (05:38), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) (07:38) |
 
@@ -271,7 +271,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Mantra Formula** | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` |
 | **PDF Location** | **p. 4, stanza 21, line 2** |
 | **Verbatim Source Text** | `Shivakameshvarankasdha shiva svadhinavallabha – 21` |
-| **Transcription Link** | [Line 112](01-Lalitha_Sahasra_Namamulu_English.md#L112) |
+| **Transcription Link** | [Line 112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) |
 | **Meaning** | "Seated on the lap of Shiva-Kameshwara, who holds Her Lord completely enchanted by Her love" |
 | **Primary Videos** | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (05:38), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) (07:38–09:04) |
 
@@ -291,7 +291,7 @@ Om + [Stanza/Name in Dative Case] + Namaha
 | **Prescribed Verse** | `Mahapadmatavi Sansdha Kadanba Vanavasinee / Sudhasagara Madhyasdha Kamakshi Kamadaeini` |
 | **PDF Location** | **p. 4, stanza 23, lines 1–2** |
 | **Verbatim Source Text** | `Mahapadmatavi sansdha kadanba vanavasinee`<br>`Sudhasagara madhyasdha kamakshi kamadaeini – 23` |
-| **Transcription Link** | [Lines 117–118](01-Lalitha_Sahasra_Namamulu_English.md#L117-L118) |
+| **Transcription Link** | [Lines 117–118](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118) |
 | **Meaning** | "Dwelling in great lotus forest, residing in Kadamba grove, situated in ocean of nectar, with loving eyes (Kamakshi), fulfiller of all desires (Kamadayini)" |
 | **Primary Video** | [`tIvmbOn2tUc`](https://www.youtube.com/watch?v=tIvmbOn2tUc) |
 | **Mechanism** | Complete grace of Lalitha as Kamakshi (loving-eyed) & Kamadayini (desire-fulfiller); clears chronic roadblocks |
@@ -319,21 +319,21 @@ Om + [Stanza/Name in Dative Case] + Namaha
 
 | # | Problem / Objective | Exact Mantra Formula (`Om ... Namaha`) | PDF Page & Stanza | Transcription Line | Primary Video(s) |
 |---|---------------------|----------------------------------------|-------------------|---------------------|------------------|
-| 1 | **Severe Debt Relief** | `Om Aparnaye Namaha` | p. 15, 145/2 | [506](01-Lalitha_Sahasra_Namamulu_English.md#L506) | `WjNtbkViSRE` |
-| 2 | **Cashflow & Blocked Funds** | `Om Sampatkari Samarudha... Sevitaye Namaha` | p. 5, 25/1 | [125](01-Lalitha_Sahasra_Namamulu_English.md#L125) | `VK3W8aFam0s`, `WjNtbkViSRE` |
-| 3 | **Ethical Wealth Expansion** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | p. 16, 165/1 | [567](01-Lalitha_Sahasra_Namamulu_English.md#L567) | `WjNtbkViSRE` |
-| 4 | **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | p. 4, 17/2 | [100](01-Lalitha_Sahasra_Namamulu_English.md#L100) | `lovnA629Bms`, `WjNtbkViSRE`, `WXM9dnBGHpA` |
-| 5 | **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | p. 12, 112/2–113/1 | [401–403](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403) | `lovnA629Bms`, `VK3W8aFam0s` |
-| 6 | **Business Revival & Peace** | `Om Indragopa Parikshipta... Janghikaye Namaha` | p. 4, 18/1 | [102](01-Lalitha_Sahasra_Namamulu_English.md#L102) | `lovnA629Bms`, `VK3W8aFam0s` |
-| 7 | **Courage & Timidity Relief** | `Om Kanakangada Keyura... Bhujanvitaye Namaha` | p. 4, 13/1 | [87](01-Lalitha_Sahasra_Namamulu_English.md#L87) | `lovnA629Bms` |
-| 8 | **Mental Peace & Stability** | `Om Manasvinyai Namaha` | p. 17, 172/2 | [591](01-Lalitha_Sahasra_Namamulu_English.md#L591) | `WjNtbkViSRE` |
-| 9 | **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | p. 17, 179/2 | [612](01-Lalitha_Sahasra_Namamulu_English.md#L612) | `WjNtbkViSRE` |
-| 10 | **Migraine & Headache** | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | p. 6, 39/1 | [169](01-Lalitha_Sahasra_Namamulu_English.md#L169) | Ajna Chakra (3rd eye) |
-| 11 | **Migraine & Headache** | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | p. 12, 119/2 | [422](01-Lalitha_Sahasra_Namamulu_English.md#L422) | Crown / Sahasrara |
-| 12 | **Migraine & Headache** | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | p. 3, 5/2 | [62](01-Lalitha_Sahasra_Namamulu_English.md#L62) | Face / Senses |
-| 14 | **Early Marriage** | `Om Kameshabaddha Mangalya... Kandharayai Namaha` | p. 4, 12/2 | [85](01-Lalitha_Sahasra_Namamulu_English.md#L85) | `VK3W8aFam0s`, `WXM9dnBGHpA` |
-| 15 | **Spousal Harmony** | `Om Shivakameshwaran-kastha... Vallabhayai Namaha` | p. 4, 21/2 | [112](01-Lalitha_Sahasra_Namamulu_English.md#L112) | `VK3W8aFam0s`, `WXM9dnBGHpA` |
-| 16 | **Obstacle Removal & Desires** | `Mahapadmatavi... Kamakshi kamadaeini` | p. 4, 23/1–2 | [117–118](01-Lalitha_Sahasra_Namamulu_English.md#L117-L118) | `tIvmbOn2tUc` |
+| 1 | **Severe Debt Relief** | `Om Aparnaye Namaha` | p. 15, 145/2 | [506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) | `WjNtbkViSRE` |
+| 2 | **Cashflow & Blocked Funds** | `Om Sampatkari Samarudha... Sevitaye Namaha` | p. 5, 25/1 | [125](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) | `VK3W8aFam0s`, `WjNtbkViSRE` |
+| 3 | **Ethical Wealth Expansion** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | p. 16, 165/1 | [567](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) | `WjNtbkViSRE` |
+| 4 | **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | p. 4, 17/2 | [100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | `lovnA629Bms`, `WjNtbkViSRE`, `WXM9dnBGHpA` |
+| 5 | **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | p. 12, 112/2–113/1 | [401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | `lovnA629Bms`, `VK3W8aFam0s` |
+| 6 | **Business Revival & Peace** | `Om Indragopa Parikshipta... Janghikaye Namaha` | p. 4, 18/1 | [102](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | `lovnA629Bms`, `VK3W8aFam0s` |
+| 7 | **Courage & Timidity Relief** | `Om Kanakangada Keyura... Bhujanvitaye Namaha` | p. 4, 13/1 | [87](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) | `lovnA629Bms` |
+| 8 | **Mental Peace & Stability** | `Om Manasvinyai Namaha` | p. 17, 172/2 | [591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) | `WjNtbkViSRE` |
+| 9 | **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | p. 17, 179/2 | [612](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612) | `WjNtbkViSRE` |
+| 10 | **Migraine & Headache** | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | p. 6, 39/1 | [169](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L169) | Ajna Chakra (3rd eye) |
+| 11 | **Migraine & Headache** | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | p. 12, 119/2 | [422](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L422) | Crown / Sahasrara |
+| 12 | **Migraine & Headache** | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | p. 3, 5/2 | [62](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L62) | Face / Senses |
+| 14 | **Early Marriage** | `Om Kameshabaddha Mangalya... Kandharayai Namaha` | p. 4, 12/2 | [85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | `VK3W8aFam0s`, `WXM9dnBGHpA` |
+| 15 | **Spousal Harmony** | `Om Shivakameshwaran-kastha... Vallabhayai Namaha` | p. 4, 21/2 | [112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | `VK3W8aFam0s`, `WXM9dnBGHpA` |
+| 16 | **Obstacle Removal & Desires** | `Mahapadmatavi... Kamakshi kamadaeini` | p. 4, 23/1–2 | [117–118](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118) | `tIvmbOn2tUc` |
 | 17 | **Emergency Crisis Removal** | 27x Complete Parayanam in Single Day | Stanzas 1–183 | [1–630](01-Lalitha_Sahasra_Namamulu_English.md) | `oALY0nEDtoU` |
 
 ---

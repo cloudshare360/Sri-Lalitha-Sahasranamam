@@ -45,7 +45,7 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha}$$
-- **Source PDF Location:** **p. 5, stanza 25, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L125)).
+- **Source PDF Location:** **p. 5, stanza 25, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125)).
 - **Verbatim Text in Source Edition:**
   ```text
   Sampat-kari samaruda sindhura-vraja sevita
@@ -66,7 +66,7 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha}$$
-- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403)).
+- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
 - **Verbatim Text in Source Edition:**
   ```text
   ...
@@ -87,7 +87,7 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L102)).
+- **Source PDF Location:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102)).
 - **Verbatim Text in Source Edition:**
   ```text
   Endra-gopa parikshipta smaratunabha janghika
@@ -108,12 +108,12 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
 - **Prescribed Mantra Formulas (`05:38–05:55`):**
   1. **For Early Marriage (Removing Marital Obstacles):**
      $$\text{Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha}$$
-     *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L85))*
+     *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85))*
      - *Verbatim:* `Kamesha bada mangalya sutra-shobhita kandhara – 12`
      - *Meaning:* *"Whose neck is beautified by the sacred wedding thread (Mangalsutra) tied by Lord Kameshwara."*
   2. **For Marital Harmony & Spouse's Love:**
      $$\text{Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha}$$
-     *(Source: p. 4, stanza 21, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L112))*
+     *(Source: p. 4, stanza 21, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112))*
      - *Verbatim:* `Shivakameshvarankasdha shiva svadhinavallabha – 21`
      - *Meaning:* *"Seated on the lap of Shiva-Kameshwara, who holds Her Lord completely captivated by Her supreme love."*
 - **Procedure:** Chant either formula (or both sequentially) for **48 minutes daily** over a 48-day period.
@@ -124,11 +124,11 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
 
 | Life Area | Prescribed Mantra Formula | PDF Reference | Primary Focus & Timing |
 | --- | --- | --- | --- |
-| **Debt & Cashflow Relief** | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | [p. 5, 25/1](01-Lalitha_Sahasra_Namamulu_English.md#L125) | 48 min / day; unfreezes stalled money |
-| **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | [p. 12, 112/2–113/1](01-Lalitha_Sahasra_Namamulu_English.md#L401-L403) | 48 min / day; physical healing |
-| **Peace & Happiness Despite Wealth** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | [p. 4, 18/1](01-Lalitha_Sahasra_Namamulu_English.md#L102) | 48 min / day; mental satisfaction & family joy |
-| **Early Marriage** | `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` | [p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md#L85) | 48 min / day; clears delay in marriage |
-| **Spousal Harmony** | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | [p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md#L112) | 48 min / day; mutual love & marital peace |
+| **Debt & Cashflow Relief** | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | [p. 5, 25/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) | 48 min / day; unfreezes stalled money |
+| **Health & Disease Relief** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | [p. 12, 112/2–113/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | 48 min / day; physical healing |
+| **Peace & Happiness Despite Wealth** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | [p. 4, 18/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | 48 min / day; mental satisfaction & family joy |
+| **Early Marriage** | `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` | [p. 4, 12/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | 48 min / day; clears delay in marriage |
+| **Spousal Harmony** | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | [p. 4, 21/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | 48 min / day; mutual love & marital peace |
 
 ---
 
