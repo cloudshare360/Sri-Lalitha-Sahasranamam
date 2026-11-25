@@ -216,7 +216,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 - **Verbatim Stanza 12 & 21 Text:**
   ```text
   ...
-  Kameshabadha mangalya sutra-shobhita kandhara – 12
+  Kamesha bada mangalya sutra-shobhita kandhara – 12
 
   ...
   Shivakameshvarankasdha shiva svadhinavallabha – 21

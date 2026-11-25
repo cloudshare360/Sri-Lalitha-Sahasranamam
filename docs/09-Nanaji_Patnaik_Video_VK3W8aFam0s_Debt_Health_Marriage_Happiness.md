@@ -109,7 +109,7 @@ In this discourse, Nanaji Patnaik details the time commitment and psychological 
   1. **For Early Marriage (Removing Marital Obstacles):**
      $$\text{Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha}$$
      *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L85))*
-     - *Verbatim:* `Kameshabadha mangalya sutra-shobhita kandhara – 12`
+     - *Verbatim:* `Kamesha bada mangalya sutra-shobhita kandhara – 12`
      - *Meaning:* *"Whose neck is beautified by the sacred wedding thread (Mangalsutra) tied by Lord Kameshwara."*
   2. **For Marital Harmony & Spouse's Love:**
      $$\text{Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha}$$

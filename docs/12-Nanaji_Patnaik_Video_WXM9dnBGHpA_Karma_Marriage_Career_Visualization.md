@@ -55,7 +55,7 @@ Nanaji teaches that chanting the Sanskrit syllables with the vocal cords alone p
   1. **Primary Marriage Formula:**
      $$\text{Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha}$$
      *(Source: p. 4, stanza 12, line 2 — [01](01-Lalitha_Sahasra_Namamulu_English.md#L85))*
-     - *Verbatim:* `Kameshabadha mangalya sutra-shobhita kandhara – 12`
+     - *Verbatim:* `Kamesha bada mangalya sutra-shobhita kandhara – 12`
      - *Derived IAST:* *Kāmeśabaddha-māṅgalya-sūtra-śobhita-kandharā*
      - *Visualization Technique:* Close your eyes and visualize the divine wedding (*Kalyana Mahotsava*) of Shiva and Parvati. See Lord Kameshwara tying the sacred Mangalsutra around the Mother's neck. Hold the feeling that your own upcoming marriage is sanctified under Their direct protection.
   2. **Harmonious Union & Companion Formula:**

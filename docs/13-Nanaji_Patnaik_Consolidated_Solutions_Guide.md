@@ -12,7 +12,7 @@ This consolidated guide synthesizes teachings across five principal video discou
 | --- | --- | --- | --- |
 | [**08**](08-Nanaji_Patnaik_Video_lovnA629Bms_Career_Health_Courage_Business.md) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) | BRK Bhakthi (7:43) | 45-min rule; Job (`17/2`), Health (`112/2–113/1`), Courage (`13/1`), Business recovery (`18/1`); 1h mantra vs 23h doubt trap. |
 | [**09**](09-Nanaji_Patnaik_Video_VK3W8aFam0s_Debt_Health_Marriage_Happiness.md) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | iDream Vanitha (8:36) | 48-min / 48-day mandala; Debt/Cashflow (`25/1`), Health (`112/2`), Happiness despite wealth (`18/1`), Marriage (`12/2`, `21/2`); Joyful, non-dogmatic attitude. |
-| [**10**](10-Nanaji_Patnaik_Video_WjNtbkViSRE_Astrological_Remedies_Debt_Job_Mind.md) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | SumanTV Devotional (12:39) | Astrological body-mapping (*Kalapurusha Tatva*); Heavy debt (`145/2`), Career (`17/2`), Wealth (`165/1`), Mind (`172/2`), Speech (`77/2`). |
+| [**10**](10-Nanaji_Patnaik_Video_WjNtbkViSRE_Astrological_Remedies_Debt_Job_Mind.md) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | SumanTV Devotional (12:39) | Astrological body-mapping (*Kalapurusha Tatva*); Heavy debt (`145/2`), Career (`17/2`), Wealth (`165/1`), Mind (`172/2`), Speech (`179/2`). |
 | [**11**](11-Nanaji_Patnaik_Video_oALY0nEDtoU_Rules_Pronunciation_27x_Parayanam.md) | [`oALY0nEDtoU`](https://www.youtube.com/watch?v=oALY0nEDtoU) | iDream Bhakthi (12:35) | Universal access (no upadesha required); Phonetic precision; Day vs. night chanting; 27x single-day parayanam for crises. |
 | [**12**](12-Nanaji_Patnaik_Video_WXM9dnBGHpA_Karma_Marriage_Career_Visualization.md) | [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Nanaji Patnaik Astrology (10:48) | Past-life karma (*Prarabdha*); 1-hour japa with active mental visualization (*Rupadhyana*); Charitable service (*Seva*). |
 
@@ -110,7 +110,7 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 ### 9. Eloquent Speech, Voice & Communication (*Vak-Shuddhi*)
 - **Mantra Formula:**
   $$\text{Gynanamudra Gyanagamya Gyanagyeya Svarupini}$$
-- **Source:** **p. 9, stanza 77, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L287)).
+- **Source:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L612)).
 - **Mechanism:** Sourced from [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`03:40`). Governs Mercury (*Budha*) and the 2nd house of speech.
 
 ### 10. Marriage & Spousal Harmony
@@ -139,7 +139,7 @@ $$\mathbf{Om} + \text{[Stanza / Name in Dative Case]} + \mathbf{Namaha}$$
 | **Business Revival & Peace** | `Om Indragopa Parikshipta... Janghikaye Namaha` | **p. 4, 18/1** | [102](01-Lalitha_Sahasra_Namamulu_English.md#L102) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) | 11th House (*Shanks*) + cow feeding |
 | **Courage & Timidity Relief** | `Om Kanakangada Keyura... Bhujanvitaye Namaha` | **p. 4, 13/1** | [87](01-Lalitha_Sahasra_Namamulu_English.md#L87) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) | 3rd House (*Arms / Dhairya Sthana*) |
 | **Mental Peace & Stability** | `Om Manasvinyai Namaha` | **p. 17, 172/2** | [591](01-Lalitha_Sahasra_Namamulu_English.md#L591) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | Moon (*Chandra*) & Manas ruler |
-| **Eloquent Speech** | `Gynanamudra Gyanagamya Gyanagyeya Svarupini` | **p. 9, 77/2** | [287](01-Lalitha_Sahasra_Namamulu_English.md#L287) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd House speech + Mercury (*Budha*) |
+| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | **p. 17, 179/2** | [612](01-Lalitha_Sahasra_Namamulu_English.md#L612) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) | 2nd House speech + Mercury (*Budha*) |
 | **Early Marriage** | `Om Kameshabaddha Mangalya... Kandharayai Namaha` | **p. 4, 12/2** | [85](01-Lalitha_Sahasra_Namamulu_English.md#L85) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Mangalsutra tied by Kameshwara |
 | **Spousal Harmony** | `Om Shivakameshwaran-kastha... Vallabhayai Namaha` | **p. 4, 21/2** | [112](01-Lalitha_Sahasra_Namamulu_English.md#L112) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) | Lap of Shiva + eternal mutual love |
 | **Emergency Crisis Removal** | 27x Complete Parayanam in Single Day | Stanzas 1–183 | [1–630](01-Lalitha_Sahasra_Namamulu_English.md) | [`oALY0nEDtoU`](https://www.youtube.com/watch?v=oALY0nEDtoU) | High-potency lunar days (Pournami, etc.) |

@@ -120,12 +120,12 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 *Target Problem: Inability to express ideas convincingly, stammering, harsh speech, or lack of impact in communication.*
 
 - **Prescribed Line (`03:40–04:20`):**
-  $$\text{Gynanamudra Gyanagamya Gyanagyeya Svarupini}$$
-- **Source PDF Location:** **p. 9, stanza 77, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L287)).
+  $$\text{Gynanamudra Gynanagamya Gynanagyneya Svarupini}$$
+- **Source PDF Location:** **p. 17, stanza 179, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md#L612)).
 - **Verbatim Text in Source Edition:**
   ```text
-  Sarva-vedanta sanvedya satyananda svarupini
-  Gynanamudra gyanagamya gyanagyeya svarupini – 77
+  Dashamudra samaradhya tripura shrivanshankari
+  Gynanamudra gynanagamya gynanagyneya svarupini – 179
   ```
 - **Derived IAST:** *Jñānamudrā jñānagamyā jñānajñeya-svarūpiṇī*
 - **Discourse Teaching:**
@@ -142,7 +142,7 @@ In this discourse, Nanaji explains the inner mechanics (*rahasya*) behind the 1,
 | **Career & Authority** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md#L100) | 10th House (*Knees / Surya + Karma Sthana*) |
 | **Wealth Multiplication** | `Om Dharmadhara Dhanadhyaksha... Vivardhinaye Namaha` | [p. 16, 165/1](01-Lalitha_Sahasra_Namamulu_English.md#L567) | Dharma foundation + sustainable prosperity |
 | **Mental Steadiness** | `Om Manasvinyai Namaha` | [p. 17, 172/2](01-Lalitha_Sahasra_Namamulu_English.md#L591) | Moon (*Chandra*) & Manas purification |
-| **Eloquent Speech** | `Gynanamudra Gyanagamya Gyanagyeya Svarupini` | [p. 9, 77/2](01-Lalitha_Sahasra_Namamulu_English.md#L287) | 2nd House (*Vak Sthana*) & Mercury (*Budha*) |
+| **Eloquent Speech** | `Gynanamudra Gynanagamya Gynanagyneya Svarupini` | [p. 17, 179/2](01-Lalitha_Sahasra_Namamulu_English.md#L612) | 2nd House (*Vak Sthana*) & Mercury (*Budha*) |
 
 ---
 
