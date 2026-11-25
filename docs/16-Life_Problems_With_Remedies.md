@@ -15,56 +15,56 @@ Every Lalitha Sahasranamam stanza below is **cross-verified** against this editi
 
 ### Health & Body
 
-| Problem | Remedy (text / practice) | Stanza | Page · Line | Source |
+| Problem | Remedy (text / practice) | Stanza | Page · Lines | Source |
 |---------|--------------------------|--------|-------------|--------|
-| Skin disease / skin ailments | `Payasanna priya tvaksdha pashuloka bhayankari` (+ sandalwood-turmeric-tulsi-honey paste) | **99/1** | p. 11 · [L359](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359) | srimeru |
-| Paralysis | `Chaitanyardhya samaradhya chaitanya kusumapriya` (+ same paste without honey) | **170/1** | p. 17 · [L584](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584) | srimeru |
-| Back pain | `Muladharanbujarudha panchavaktrasdhi sanpdhita` | **106/1** | p. 11 · [L380](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380) | srimeru |
-| Knee pain | `Manikya makuta kara janudvaya virajita` (+ crisscross hands over knees) | **17/2** | p. 4 · [L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | srimeru |
+| Skin disease / skin ailments | `Payasanna priya tvaksdha pashuloka bhayankari` (+ sandalwood-turmeric-tulsi-honey paste) | **99/1** | p. 11 · [L359–L360](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360) | srimeru |
+| Paralysis | `Chaitanyardhya samaradhya chaitanya kusumapriya` (+ same paste without honey) | **170/1** | p. 17 · [L584–L585](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584-L585) | srimeru |
+| Back pain | `Muladharanbujarudha panchavaktrasdhi sanpdhita` | **106/1** | p. 11 · [L380–L381](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380-L381) | srimeru |
+| Knee pain | `Manikya makuta kara janudvaya virajita` (+ crisscross hands over knees) | **17/2** | p. 4 · [L99–L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100) | srimeru |
 | Chronic disease / general health | `Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha` | **112/2–113/1** | p. 12 · [L401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | Nanaji |
 | Health (quick daily) | `Kreem Achyuta Ananta Govinda` ×3 over water/food | — | — | Nanaji |
-| Migraine — third-eye/neurological | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | **39/1** | p. 6 · [L169](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L169) | derived |
-| Migraine — crown/vascular | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | **119/2** | p. 12 · [L422](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L422) | derived |
-| Migraine — face/sinus/ocular | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | **5/2** | p. 3 · [L62](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L62) | derived |
-| Not having kids (infertility) | `Sarvayudhadharashukla sansdhita sarvatomukhi` | **109/2** | p. 12 · [L392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L392) | srimeru |
+| Migraine — third-eye/neurological | `Om Aagyna-chakrantaralasdha Rudra-grandhi Vibhedinyai Namaha` | **39/1** | p. 6 · [L169–L170](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L169-L170) | derived |
+| Migraine — crown/vascular | `Om Shirasdhita Chandranibha Phalasdhendra Dhanuh Prabhaye Namaha` | **119/2** | p. 12 · [L421–L422](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L421-L422) | derived |
+| Migraine — face/sinus/ocular | `Om Mukha-chandra Kalankabha Mriga-nabhi Visheshakayai Namaha` | **5/2** | p. 3 · [L61–L62](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L61-L62) | derived |
+| Not having kids (infertility) | `Sarvayudhadharashukla sansdhita sarvatomukhi` | **109/2** | p. 12 · [L391–L392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L391-L392) | srimeru |
 | Nervous issue | **Sri Rudram** — Namakam & Chamakam | — | — | srimeru (non-LSN) |
 | Cancer cure | **Durga Saptashati** Ch. 8 (Raktabeeja-vadha) | — | — | srimeru (non-LSN) |
 
 ### Money, Career & Business
 
-| Problem | Remedy (text / practice) | Stanza | Page · Line | Source |
+| Problem | Remedy (text / practice) | Stanza | Page · Lines | Source |
 |---------|--------------------------|--------|-------------|--------|
-| Severe / crushing debt | `Om Aparnaye Namaha` (from `Aparna`) | **145/2** | p. 15 · [L506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) | Nanaji |
-| Blocked cashflow / stalled wealth | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | **25/1** | p. 5 · [L125](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) | Nanaji |
-| Ethical wealth / sustainable abundance | `Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha` | **165/1** | p. 16 · [L567](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) | Nanaji |
-| Job, promotion & authority | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **17/2** | p. 4 · [L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | Nanaji |
-| Job & business (broader) | `Mahishvari mahadivi mahalakshmi rmrudapriya` | **53/2** | p. 7 · [L214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L214) | srimeru |
-| Business revival & inner peace | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` (+ feed cow gongura) | **18/1** | p. 4 · [L102](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | Nanaji |
+| Severe / crushing debt | `Om Aparnaye Namaha` (from `Aparna`) | **145/2** | p. 15 · [L505–L506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L505-L506) | Nanaji |
+| Blocked cashflow / stalled wealth | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | **25/1** | p. 5 · [L125–L126](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125-L126) | Nanaji |
+| Ethical wealth / sustainable abundance | `Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha` | **165/1** | p. 16 · [L567–L568](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567-L568) | Nanaji |
+| Job, promotion & authority | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **17/2** | p. 4 · [L99–L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100) | Nanaji |
+| Job & business (broader) | `Mahishvari mahadivi mahalakshmi rmrudapriya` | **53/2** | p. 7 · [L213–L214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L213-L214) | srimeru |
+| Business revival & inner peace | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` (+ feed cow gongura) | **18/1** | p. 4 · [L102–L103](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102-L103) | Nanaji |
 | Financial problem (heavy) | **Sree Narayana Laghu Homa** + Elachi-mala alankara puja | — | — | srimeru (non-LSN) |
 
 ### Relationships & Marriage
 
-| Problem | Remedy (text / practice) | Stanza | Page · Line | Source |
+| Problem | Remedy (text / practice) | Stanza | Page · Lines | Source |
 |---------|--------------------------|--------|-------------|--------|
-| Marriage for girls | `Kamesha bada mangalya sutra-shobhita kandhara` | **12/2** | p. 4 · [L85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | srimeru |
+| Marriage for girls | `Kamesha bada mangalya sutra-shobhita kandhara` | **12/2** | p. 4 · [L84–L85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L84-L85) | srimeru |
 | Marriage for boys | **Gandharva Raja mantram** | — | — | srimeru (non-LSN) |
-| Spousal harmony / deep union | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | **21/2** | p. 4 · [L112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | Nanaji |
+| Spousal harmony / deep union | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | **21/2** | p. 4 · [L111–L112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L111-L112) | Nanaji |
 | Marriage karma (past-life blocks) | 1 hr/day of `12/2` + `21/2` with visualization | 12/2, 21/2 | p. 4 | Nanaji |
 | Auspicious marriage of unmarried girls | **Aghora Gauri Pashupata Abhisheka Puja** | — | — | srimeru (non-LSN) |
 | Not listening to parents / bad habits | **Varahi mantram** (108) | — | — | srimeru (non-LSN) |
 
 ### Mind, Speech & Courage
 
-| Problem | Remedy (text / practice) | Stanza | Page · Line | Source |
+| Problem | Remedy (text / practice) | Stanza | Page · Lines | Source |
 |---------|--------------------------|--------|-------------|--------|
-| Mental peace / anxiety / Moon balance | `Om Manasvinyai Namaha` (from `Manasvini`) | **172/2** | p. 17 · [L591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) | Nanaji |
-| Eloquent speech / voice | `Gynanamudra gynanagamya gynanagyneya svarupini` | **179/2** | p. 17 · [L612](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L612) | Nanaji |
+| Mental peace / anxiety / Moon balance | `Om Manasvinyai Namaha` (from `Manasvini`) | **172/2** | p. 17 · [L590–L591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L590-L591) | Nanaji |
+| Eloquent speech / voice | `Gynanamudra gynanagamya gynanagyneya svarupini` | **179/2** | p. 17 · [L611–L612](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L611-L612) | Nanaji |
 | Speech defect / speech delay | **Medha Suktham** ×8 + **Vishnuryoni** mantra ×16 | — | — | srimeru (non-LSN) |
-| Courage / fear / hesitation | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | **13/1** | p. 4 · [L87](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) | Nanaji |
+| Courage / fear / hesitation | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | **13/1** | p. 4 · [L87–L88](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87-L88) | Nanaji |
 
 ### Protection, Obstacles & Life Purpose
 
-| Problem | Remedy (text / practice) | Stanza | Page · Line | Source |
+| Problem | Remedy (text / practice) | Stanza | Page · Lines | Source |
 |---------|--------------------------|--------|-------------|--------|
 | Negative energy / evil eye | **Varahi mantram** + **Durga Yantram** | — | — | srimeru (non-LSN) |
 | Obstacles & unfulfilled desires | `Mahapadmatavi sansdha kadanba vanavasinee / Sudha sagara madhyasdha kamakshi kamadaeinee` | **23/1–2** | p. 4 · [L117–118](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118) | Nanaji |
@@ -110,7 +110,7 @@ Verification against [01 — Transcription](01-Lalitha_Sahasra_Namamulu_English.
 
 | Item | Previously stated | Verified correct |
 |------|-------------------|------------------|
-| Eloquent-speech stanza | `77/2`, p. 9, L287 | **`179/2`, p. 17, L612** |
+| Eloquent-speech stanza | `77/2`, p. 9, L287 | **`179/2`, p. 17, L611–L612** |
 | Migraine (Ajna) | p. 5, `39/1` | **p. 6**, `39/1` |
 | Migraine (face) | p. 2, `5/2` | **p. 3**, `5/2` |
 | Infertility | p. 11, `109/2` | **p. 12**, `109/2` |

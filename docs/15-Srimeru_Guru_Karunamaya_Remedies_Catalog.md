@@ -12,21 +12,21 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 
 | # | Remedy (srimeru.org) | Prescribed Text | LSN Stanza (this edition) | PDF Page & Line | Type |
 |---|----------------------|-----------------|---------------------------|-----------------|------|
-| 1 | Skin Disease | `Payasanna priya tvaksdha pashuloka bhayankari` | **99/1** | p. 11, [L359](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359) | LSN |
-| 2 | Paralysis (Peralysis) | `Chaitanyardhya samaradhya chaitanya kusumapriya` | **170/1** | p. 17, [L584](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584) | LSN |
+| 1 | Skin Disease | `Payasanna priya tvaksdha pashuloka bhayankari` | **99/1** | p. 11, [L359–L360](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360) | LSN |
+| 2 | Paralysis (Peralysis) | `Chaitanyardhya samaradhya chaitanya kusumapriya` | **170/1** | p. 17, [L584–L585](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584-L585) | LSN |
 | 3 | Nervous issue | **Sri Rudram** (Namakam / Chamakam) | — | — | Non-LSN |
 | 4 | Negative Energy | **Varahi mantram** + Durga Yantram | — | — | Non-LSN |
-| 5 | Marriage for Girls | `Kamesha bada mangalya sutra-shobhita kandhara` | **12/2** | p. 4, [L85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | LSN |
+| 5 | Marriage for Girls | `Kamesha bada mangalya sutra-shobhita kandhara` | **12/2** | p. 4, [L84–L85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L84-L85) | LSN |
 | 6 | Marriage for Boys | **Gandharva Raja mantram** | — | — | Non-LSN |
-| 7 | Knee pain | `Manikya makuta kara janudvaya virajita` | **17/2** | p. 4, [L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | LSN |
+| 7 | Knee pain | `Manikya makuta kara janudvaya virajita` | **17/2** | p. 4, [L99–L100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100) | LSN |
 | 8 | Not listening to parents / bad habits | **Varahi mantram** | — | — | Non-LSN |
-| 9 | Not having kids | `Sarvayudhadharashukla sansdhita sarvatomukhi` | **109/2** | p. 12, [L392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L392) | LSN |
-| 10 | Job, business | `Mahishvari mahadivi mahalakshmi rmrudapriya` | **53/2** | p. 7, [L214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L214) | LSN |
+| 9 | Not having kids | `Sarvayudhadharashukla sansdhita sarvatomukhi` | **109/2** | p. 12, [L391–L392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L391-L392) | LSN |
+| 10 | Job, business | `Mahishvari mahadivi mahalakshmi rmrudapriya` | **53/2** | p. 7, [L213–L214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L213-L214) | LSN |
 | 11 | Financial Problem | **Sree Narayana Laghu Homa** + Elachi-mala alankara puja + ritual PDF | — | — | Non-LSN |
 | 12 | Defect in speech / speech delay | **Medha Suktham** (×8) + **Vishnuryoni** mantra (×16) | — | — | Non-LSN |
 | 13 | Cancer Cure | **Durga Saptashati** Ch. 8 (Raktabeeja-vadha) | — | — | Non-LSN |
-| 14 | Back pain | `Muladharanbujarudha panchavaktrasdhi sanpdhita` | **106/1** | p. 11, [L380](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380) | LSN |
-| 15 | Skin Ailments | `Payasanna priya tvaksdha pashuloka bhayankari` *(same as #1)* | **99/1** | p. 11, [L359](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359) | LSN |
+| 14 | Back pain | `Muladharanbujarudha panchavaktrasdhi sanpdhita` | **106/1** | p. 11, [L380–L381](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380-L381) | LSN |
+| 15 | Skin Ailments | `Payasanna priya tvaksdha pashuloka bhayankari` *(same as #1)* | **99/1** | p. 11, [L359–L360](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360) | LSN |
 | 16 | Marriage of unmarried girls — Aghora Gauri Pashupata Abhisheka Puja | Dedicated **abhisheka puja** (PDF procedure) | — | — | Non-LSN |
 
 **Coverage:** 8 of 16 remedies use a Lalitha Sahasranamam stanza (7 unique stanzas; #1 and #15 share 99/1). 8 use non-LSN scriptures, homas, or pujas.
@@ -38,7 +38,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 1 & 15 — Skin Disease / Skin Ailments
 - **Stanza:** **99/1** — `Payasanna priya tvaksdha pashuloka bhayankari`
 - **Full stanza 99:** `Payasanna priya tvaksdha pashuloka bhayankari / Amrutadi mahashakti sanvruta dakinishvari – 99`
-- **PDF:** p. 11, [Line 359](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359)
+- **PDF:** p. 11, [Lines 359–360](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360)
 - **Derived IAST:** *Payasānnapriyā tvaksthitā paśuloka-bhayaṅkarī*
 - **Meaning:** *"She who delights in sweet rice-offering (payasanna), who abides in the skin (tvak-sthā), and who is the awe-inspiring protectress of the animal world."* `Tvak-sthā` (abiding in the skin) makes this the traditional skin-disease selection.
 - **Website audio:** `payasannapriya-tvakstha-pasuloka-bhayaṅkari.mp3`, `skin-disease.mp3`, `payasannapriya-pasuloka-bhayaṅkari.mp3`
@@ -48,7 +48,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 2 — Paralysis (Peralysis)
 - **Stanza:** **170/1** — `Chaitanyardhya samaradhya chaitanya kusumapriya`
 - **Full stanza 170:** `Chaitanyardhya samaradhya chaitanya kusumapriya / Sadodita sadatushta tarunadityapatala – 170`
-- **PDF:** p. 17, [Line 584](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584)
+- **PDF:** p. 17, [Lines 584–585](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L584-L585)
 - **Derived IAST:** *Caitanyārdhyā samārādhyā caitanya-kusumapriyā*
 - **Meaning:** *"She who is worshipped with the offering of consciousness (caitanya), who is propitiated by the flower of pure awareness."* Invoked for restoring the flow of *caitanya* (conscious vitality) through the nervous/motor system.
 - **Website audio:** `chaitanyarghya-samaradhya-chaitanya-kusumapriya.mp3`, `paralysis-1.mp3` (note site spells it "chaitanyarghya"; source reads "Chaitanyardhya")
@@ -58,7 +58,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 5 — Marriage for Girls
 - **Stanza:** **12/2** — `Kamesha bada mangalya sutra-shobhita kandhara`
 - **Full stanza 12:** `Anakalita sadrusya chubuka shree virajita / Kamesha bada mangalya sutra-shobhita kandhara – 12`
-- **PDF:** p. 4, [Line 85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85)
+- **PDF:** p. 4, [Lines 84–85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L84-L85)
 - **Derived IAST:** *Kāmeśa-baddha-māṅgalya-sūtra-śobhita-kandharā* (often cited as `Kameshabadha`; source prints `Kamesha bada`)
 - **Meaning:** *"Whose neck is adorned with the sacred mangalsutra tied by Lord Kameshwara."*
 - **Website audio:** `Kamesha-baddha-mangalya-sutra-shobhita-kandhara.mp3`, `Marriage-for-Girls.m4a`
@@ -67,7 +67,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 7 — Knee Pain
 - **Stanza:** **17/2** — `Manikya makuta kara janudvaya virajita`
 - **Full stanza 17:** `Kameshagyata saobhagya mardavoru dvayanvita / Manikya makuta kara janudvaya virajita – 17`
-- **PDF:** p. 4, [Line 100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)
+- **PDF:** p. 4, [Lines 99–100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100)
 - **Derived IAST:** *Māṇikya-makuṭākāra-jānudvaya-virājitā*
 - **Meaning:** *"Whose twin knees shine like crowns of radiant rubies."* The literal `janu` (knee) correspondence makes this the knee-specific selection (the same stanza also serves career/10th-house in Nanaji Patnaik's method — see [07](07-Stanzas_Prescribed_by_Nanaji_Patnaik.md)).
 - **Website audio:** `Manikya-makuta-kara-janudvaya-virajita.mp3`, `knee-pain-english.mp4`
@@ -77,7 +77,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 9 — Not Having Kids (Infertility)
 - **Stanza:** **109/2** — `Sarvayudhadharashukla sansdhita sarvatomukhi`
 - **Full stanza 109:** `Sahasradala padmasdha sarvavarnopashobhita / Sarvayudhadharashukla sansdhita sarvatomukhi – 109`
-- **PDF:** p. 12, [Line 392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L392)
+- **PDF:** p. 12, [Lines 391–392](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L391-L392)
 - **Derived IAST:** *Sarvāyudhadharā śuklā saṃsthitā sarvatomukhī*
 - **Meaning:** *"Holding all weapons, white/radiant (śuklā), established everywhere, facing all directions (sarvatomukhī)."* Recited in the Sahasrara-padma context (the preceding line), traditionally invoked for progeny and overall auspiciousness.
 - **Website audio:** `sarvayudhadhara-sukla-saṃsthita-sarvatomukhi.mp3`, `Not-having-kids-english-1.mp4`
@@ -86,7 +86,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 10 — Job, Business
 - **Stanza:** **53/2** — `Mahishvari mahadivi mahalakshmi rmrudapriya`
 - **Full stanza 53:** (see [05](05-Eight_Life_Areas_Samputikarana_Guide.md)) — `Mahishvari mahadivi mahalakshmi rmrudapriya – 53`
-- **PDF:** p. 7, [Line 214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L214)
+- **PDF:** p. 7, [Lines 213–214](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L213-L214)
 - **Derived IAST:** *Māheśvarī mahādevī mahālakṣmīr mṛḍapriyā*
 - **Meaning:** *"The Great Goddess, the Great Devi, the Great Lakshmi, dear to Mrida (Shiva)."* Guru Karunamaya uses this line explicitly for job and business success *(arthika kashtalu)*.
 - **Website audio:** `Maheshvari-mahadivi-mahalakshmi-rmrudapriya-2.mp3`, `job.English.m4a`
@@ -95,7 +95,7 @@ Catalog of **all 16 remedies** published on the *Srividya Jnaana Peetham* remedi
 ### Remedy 14 — Back Pain
 - **Stanza:** **106/1** — `Muladharanbujarudha panchavaktrasdhi sanpdhita`
 - **Full stanza 106:** `Muladharanbujarudha panchavaktrasdhi sanpdhita / Ankushadi praharana varadadi nishevita – 106`
-- **PDF:** p. 11, [Line 380](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380)
+- **PDF:** p. 11, [Lines 380–381](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L380-L381)
 - **Derived IAST:** *Mūlādhārāmbujārūḍhā pañcavaktrāsthi-saṃsthitā*
 - **Meaning:** *"Seated on the Mūlādhāra lotus, established in the five-faced (pañcavaktra) bone structure."* The `asthi` (bone) and Mūlādhāra/base-of-spine imagery make this the back/spinal selection.
 - **Website audio:** `mula-dharambujaruḍha-panchavaktra_sthisaṃsthita.mp3`, `back-pain.unknown.mp4` (site reads "sthisaṃsthita"; source reads "sdi sanpdhita")

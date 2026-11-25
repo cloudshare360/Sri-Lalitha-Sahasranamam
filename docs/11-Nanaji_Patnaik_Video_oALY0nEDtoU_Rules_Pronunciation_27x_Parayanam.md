@@ -60,10 +60,10 @@ In this discourse, Nanaji explains the astrological difference between morning a
 
 Nanaji explains that names referring to food offerings in Lalitha Sahasranamam are not literal culinary preferences of the Goddess, but represent inner spiritual alchemy:
 
-- **`Payasanna Priya` (p. 11, stanza 99, line 1 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359)):**
+- **`Payasanna Priya` (p. 11, stanza 99, line 1 — [359–360](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360)):**
   - *Payasa* (sweet milk pudding) represents the refined *Ojas* (vital essence) and *Sattva Guna* in the subtle body.
   - Feeding the skin/tissue elements (*tvak-dhatu*) with sweet, pure consciousness.
-- **`Gudanna Prita Manasa` (p. 11, stanza 101, line 1 — [01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L365)):**
+- **`Gudanna Prita Manasa` (p. 11, stanza 101, line 1 — [365–366](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L365-L366)):**
   - *Gudanna* (jaggery rice) represents the transformation of crude worldly desires into warm, grounded sweetness (*ananda*).
 
 ---
@@ -95,7 +95,7 @@ The 27x parayanam should ideally be conducted on one of the five powerful lunar 
 | **Eligibility & Initiation** | No Guru *upadesha* required; Lalitha Sahasranamam is public and universal. | `02:25` |
 | **Pronunciation** | Chant clearly and deliberately; acoustic phonetics directly stimulate nadis and chakras. | `02:32–03:39` |
 | **Night Chanting** | Shakti is exceptionally responsive at night; late evening chanting accelerates relief. | Evening / Night sadhana |
-| **Inner Meanings** | Names like *Payasanna Priya* reflect bodily dhatus and sattvic transmutation of energy. | [p. 11, 99/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359) |
+| **Inner Meanings** | Names like *Payasanna Priya* reflect bodily dhatus and sattvic transmutation of energy. | [p. 11, 99/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L359-L360) |
 | **27x Single-Day Parayanam** | High-potency emergency procedure done on Ashtami, Navami, Chaturdashi, Amavasya, or Pournami. | Intensive 27x recitation cycle |
 
 ---

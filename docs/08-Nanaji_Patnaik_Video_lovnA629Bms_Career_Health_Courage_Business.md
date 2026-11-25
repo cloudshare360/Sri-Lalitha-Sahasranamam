@@ -42,7 +42,7 @@ In this discourse, Nanaji Patnaik explains that chanting the full 1,000 names da
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Manikya Makutakara Janudvaya Virajitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)).
+- **Source PDF Location:** **p. 4, stanza 17, line 2** ([99–100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100)).
 - **Verbatim Text in Source Edition:**
   ```text
   Kameshagyata saobhagya mardavoru dvayanvita
@@ -64,7 +64,7 @@ In this discourse, Nanaji Patnaik explains that chanting the full 1,000 names da
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha}$$
-- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
+- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
 - **Verbatim Text in Source Edition:**
   ```text
   ...
@@ -89,7 +89,7 @@ In this discourse, Nanaji Patnaik explains that chanting the full 1,000 names da
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 13, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87)).
+- **Source PDF Location:** **p. 4, stanza 13, line 1** ([87–88](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87-L88)).
 - **Verbatim Text in Source Edition:**
   ```text
   Kanakangada keyura kamaniya bhujanvita
@@ -109,7 +109,7 @@ In this discourse, Nanaji Patnaik explains that chanting the full 1,000 names da
 
 - **Prescribed Mantra Formula:**
   $$\text{Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102)).
+- **Source PDF Location:** **p. 4, stanza 18, line 1** ([102–103](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102-L103)).
 - **Verbatim Text in Source Edition:**
   ```text
   Endra-gopa parikshipta smaratunabha janghika
@@ -144,10 +144,10 @@ At timestamp `06:22–07:24`, Nanaji Patnaik explains why many people fail to se
 
 | Solution Area | Prescribed Mantra Formula | PDF Reference | Astrological House / Mechanism |
 | --- | --- | --- | --- |
-| **Job & Career** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | 10th House (*Knees / Karma Sthana*) |
+| **Job & Career** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | [p. 4, 17/2](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100) | 10th House (*Knees / Karma Sthana*) |
 | **Health & Healing** | `Om Sarvavyadhi Prashamani... Kalikalmashanashine Namaha` | [p. 12, 112/2–113/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | 6th / 4th House (*Sarva Vyadhi Prashamani*) |
-| **Courage & Confidence** | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | [p. 4, 13/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) | 3rd House (*Arms / Dhairya Sthana*) |
-| **Business Recovery** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | [p. 4, 18/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | 11th House (*Shanks / Labha Sthana*) + Cow feeding |
+| **Courage & Confidence** | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | [p. 4, 13/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87-L88) | 3rd House (*Arms / Dhairya Sthana*) |
+| **Business Recovery** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | [p. 4, 18/1](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102-L103) | 11th House (*Shanks / Labha Sthana*) + Cow feeding |
 
 ---
 

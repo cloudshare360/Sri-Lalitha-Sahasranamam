@@ -41,7 +41,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 - **Mantra Formula:**
   $$\text{Om Aparnaye Namaha}$$
 - **Name Source:** Extracted from the sacred name **`Aparna`**.
-- **Source PDF Location:** **p. 15, stanza 145, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506)).
+- **Source PDF Location:** **p. 15, stanza 145, line 2** ([505–506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L505-L506)).
 - **Verbatim Stanza 145 Text:**
   ```text
   Maheshvari mahakali mahagrasa mahashana
@@ -59,7 +59,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha}$$
-- **Source PDF Location:** **p. 5, stanza 25, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125)).
+- **Source PDF Location:** **p. 5, stanza 25, line 1** ([125–126](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125-L126)).
 - **Verbatim Stanza 25 Text:**
   ```text
   Sampat-kari samaruda sindhura-vraja sevita
@@ -80,7 +80,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha}$$
-- **Source PDF Location:** **p. 16, stanza 165, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567)).
+- **Source PDF Location:** **p. 16, stanza 165, line 1** ([567–568](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567-L568)).
 - **Verbatim Stanza 165 Text:**
   ```text
   Dharmadhara dhanadhyaksha dhanadhanya vivardhini
@@ -99,7 +99,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha}$$
-- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
+- **Source PDF Location:** **p. 12, stanza 112 line 2 – stanza 113 line 1** ([401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403)).
 - **Verbatim Stanza 112–113 Text:**
   ```text
   ...
@@ -125,7 +125,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Manikya Makutakara Janudvaya Virajitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 17, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100)).
+- **Source PDF Location:** **p. 4, stanza 17, line 2** ([99–100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100)).
 - **Verbatim Stanza 17 Text:**
   ```text
   Kameshagyata saobhagya mardavoru dvayanvita
@@ -146,7 +146,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 18, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102)).
+- **Source PDF Location:** **p. 4, stanza 18, line 1** ([102–103](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102-L103)).
 - **Verbatim Stanza 18 Text:**
   ```text
   Endra-gopa parikshipta smaratunabha janghika
@@ -168,7 +168,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 - **Mantra Formula:**
   $$\text{Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha}$$
-- **Source PDF Location:** **p. 4, stanza 13, line 1** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87)).
+- **Source PDF Location:** **p. 4, stanza 13, line 1** ([87–88](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87-L88)).
 - **Verbatim Stanza 13 Text:**
   ```text
   Kanakangada keyura kamaniya bhujanvita
@@ -188,7 +188,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 - **Mantra Formula:**
   $$\text{Om Manasvinyai Namaha}$$
 - **Name Source:** Extracted from the name **`Manasvini`**.
-- **Source PDF Location:** **p. 17, stanza 172, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591)).
+- **Source PDF Location:** **p. 17, stanza 172, line 2** ([590–591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L590-L591)).
 - **Verbatim Stanza 172 Text:**
   ```text
   Matruka varna rupini vidyadhatri shuvadaprada
@@ -211,8 +211,8 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
   2. For deep harmony, devotion, and understanding between spouses:
      $$\text{Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha}$$
 - **Source PDF Locations:**
-  - Formula 1: **p. 4, stanza 12, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85)).
-  - Formula 2: **p. 4, stanza 21, line 2** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112)).
+  - Formula 1: **p. 4, stanza 12, line 2** ([84–85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L84-L85)).
+  - Formula 2: **p. 4, stanza 21, line 2** ([111–112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L111-L112)).
 - **Verbatim Stanza 12 & 21 Text:**
   ```text
   ...
@@ -234,7 +234,7 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 *For clearing chronic roadblocks and obtaining auspicious desires through the complete grace of Lalitha Devi.*
 
-- **Source PDF Location:** **p. 4, stanza 23** ([01](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118)).
+- **Source PDF Location:** **p. 4, stanza 23** ([117–118](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118)).
 - **Verbatim Stanza 23 Text:**
   ```text
   Mahapadmatavi sansdha kadanba vanavasinee
@@ -250,16 +250,16 @@ Nanaji Patnaik's method uses a direct **Eka-Nama / Stanza Japa** approach rather
 
 | Problem / Life Area | Prescribed Mantra Formula (`Om ... Namaha`) | PDF Page & Stanza | Line in Transcription | Primary Source Video |
 | --- | --- | --- | --- | --- |
-| **Severe Debt Relief** | `Om Aparnaye Namaha` | **p. 15, 145/2** | [Line 506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L506) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`09:22`) |
-| **Cashflow & Blocked Wealth** | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | **p. 5, 25/1** | [Line 125](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`01:44`) |
-| **Wealth Multiplier & Dharma** | `Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha` | **p. 16, 165/1** | [Line 567](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`08:41`) |
+| **Severe Debt Relief** | `Om Aparnaye Namaha` | **p. 15, 145/2** | [Lines 505–506](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L505-L506) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`09:22`) |
+| **Cashflow & Blocked Wealth** | `Om Sampatkari Samarudha Sindura Vraja Sevitaye Namaha` | **p. 5, 25/1** | [Lines 125–126](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L125-L126) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`01:44`) |
+| **Wealth Multiplier & Dharma** | `Om Dharmadhara Dhanadhyaksha Dhanadhanya Vivardhinaye Namaha` | **p. 16, 165/1** | [Lines 567–568](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L567-L568) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`08:41`) |
 | **Health & Disease Relief** | `Om Sarvavyadhi Prashamani Sarvamrityu Nivarini Agraganya Achintyarupa Kalikalmashanashine Namaha` | **p. 12, 112/2–113/1** | [Lines 401–403](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L401-L403) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`03:02`), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`01:07`) |
-| **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **p. 4, 17/2** | [Line 100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L100) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`02:32`), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`04:31`) |
-| **Business Revival & Inner Peace** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | **p. 4, 18/1** | [Line 102](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`04:22`), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`02:52`) |
-| **Courage & Overcoming Hesitation** | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | **p. 4, 13/1** | [Line 87](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`03:11`) |
-| **Mental Stability & Peace** | `Om Manasvinyai Namaha` | **p. 17, 172/2** | [Line 591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L591) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`02:43`) |
-| **Early Marriage** | `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` | **p. 4, 12/2** | [Line 85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L85) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`05:38`) |
-| **Marital Harmony** | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | **p. 4, 21/2** | [Line 112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L112) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`05:38`), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) (`07:38`) |
+| **Job & Career Advancement** | `Om Manikya Makutakara Janudvaya Virajitaye Namaha` | **p. 4, 17/2** | [Lines 99–100](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L99-L100) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`02:32`), [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`04:31`) |
+| **Business Revival & Inner Peace** | `Om Indragopa Parikshipta Smaratunabha Janghikaye Namaha` | **p. 4, 18/1** | [Lines 102–103](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L102-L103) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`04:22`), [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`02:52`) |
+| **Courage & Overcoming Hesitation** | `Om Kanakangada Keyura Kamaniya Bhujanvitaye Namaha` | **p. 4, 13/1** | [Lines 87–88](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L87-L88) | [`lovnA629Bms`](https://www.youtube.com/watch?v=lovnA629Bms) (`03:11`) |
+| **Mental Stability & Peace** | `Om Manasvinyai Namaha` | **p. 17, 172/2** | [Lines 590–591](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L590-L591) | [`WjNtbkViSRE`](https://www.youtube.com/watch?v=WjNtbkViSRE) (`02:43`) |
+| **Early Marriage** | `Om Kameshabaddha Mangalya Sutra Shobhita Kandharayai Namaha` | **p. 4, 12/2** | [Lines 84–85](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L84-L85) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`05:38`) |
+| **Marital Harmony** | `Om Shivakameshwaran-kastha Shiva Swadhina Vallabhayai Namaha` | **p. 4, 21/2** | [Lines 111–112](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L111-L112) | [`VK3W8aFam0s`](https://www.youtube.com/watch?v=VK3W8aFam0s) (`05:38`), [`WXM9dnBGHpA`](https://www.youtube.com/watch?v=WXM9dnBGHpA) (`07:38`) |
 | **Obstacle Removal & Desires** | `Mahapadmatavi sansdha... Kamakshi kamadaeini` | **p. 4, 23/1–2** | [Lines 117–118](01-Lalitha_Sahasra_Namamulu_English.md?plain=1#L117-L118) | [`tIvmbOn2tUc`](https://www.youtube.com/watch?v=tIvmbOn2tUc) |
 
 ---
