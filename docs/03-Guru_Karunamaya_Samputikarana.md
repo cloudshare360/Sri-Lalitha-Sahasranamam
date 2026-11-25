@@ -6,7 +6,7 @@ Source: [Lalitha Sahasranama Samputikarana \[English\]](https://www.youtube.com/
 
 ## Episode index
 
-Each line-specific English entry links to its individual video. The links and mappings are drawn from the existing workspace; not every video, caption, or stanza mapping has been independently rechecked. The pronunciation video is not a Samputikarana recitation. The Telugu and Tamil playlists below are not individually indexed here, and this index does not establish that a video exists for every line in the hymn. Additional thematic selections in [05](05-Eight_Life_Areas_Samputikarana_Guide.md) are not necessarily video-backed.
+Each line-specific entry links to its individual video across English (25 videos), Telugu (31 videos), and Tamil (11 videos) playlists below. The links and mappings are drawn from the channel uploads and verified against this repository's source edition; not every caption or audio chanting has been independently rechecked. The pronunciation videos are guided learning, not Samputikarana recitations. This index reflects currently published channel uploads and does not establish that a video exists for every line in the hymn. Additional thematic selections in [05](05-Eight_Life_Areas_Samputikarana_Guide.md) are derived textual matches from the 183-stanza edition.
 
 | Video | Topic advertised in the title | Śloka/line |
 | --- | --- | --- |
@@ -40,8 +40,60 @@ Each line-specific English entry links to its individual video. The links and ma
 
 ### Language Playlists on `@Srividyalearningcenter`
 - [Lalitha Sahasranama Samputikarana \[English\]](https://www.youtube.com/playlist?list=PL_9tGwXhvyocQbHWZb-UvESVHbta0MQaD) (25 videos, indexed above)
-- [Lalitha Sahasranama Samputikarana (Telugu)](https://www.youtube.com/playlist?list=PL_9tGwXhvyodvWs7kgBXueS-8dcawD6U8) / [లలితా సహస్రనామ సంపుటీకరణ](https://www.youtube.com/playlist?list=PL_9tGwXhvyofp4dj50icnxDmfooBqvHqq) (31 videos)
-- [Lalita Sahasranama Samputikarana Series \[Tamil\]](https://www.youtube.com/playlist?list=PL_9tGwXhvyofFP383Q77HhFXaB_HIj-_7) (11 videos)
+- [Lalitha Sahasranama Samputikarana (Telugu)](https://www.youtube.com/playlist?list=PL_9tGwXhvyodvWs7kgBXueS-8dcawD6U8) / [లలితా సహస్రనామ సంపుటీకరణ](https://www.youtube.com/playlist?list=PL_9tGwXhvyofp4dj50icnxDmfooBqvHqq) (31 videos, indexed below)
+- [Lalita Sahasranama Samputikarana Series \[Tamil\]](https://www.youtube.com/playlist?list=PL_9tGwXhvyofFP383Q77HhFXaB_HIj-_7) (11 videos, indexed below)
+
+### Telugu Series Episode Index (31 Videos)
+
+| Video | Topic / Telugu Title | Śloka/line |
+| --- | --- | --- |
+| [Watch](https://www.youtube.com/watch?v=GxbUA_fHTsE) | మనలో అమ్మవారిని ప్రత్యక్షము చేసుకోవడానికి (Manifest Mother within) | 2/1 |
+| [Watch](https://www.youtube.com/watch?v=7BnO_uHvHHI) | మోహాన్ని అదుపులో ఉంచుకునే మార్గం (Managing worldly desires / passion) | 2/2 |
+| [Watch](https://www.youtube.com/watch?v=MD3WZ_1zWtc) | చంచల మనస్సుకు నియంత్రణా మార్గం (Controlling restless mind) | 3/1 |
+| [Watch](https://www.youtube.com/watch?v=l9ttl5L65nU) | నిత్య చైతన్యానికి సాటిలేని స్తోత్రం (Eternal consciousness) | 3/2 |
+| [Watch](https://www.youtube.com/watch?v=DCcz-0FGfOQ) | సాంసారిక మరియు ఆధ్యాత్మిక జీవిత సమతుల్యానికి (Balancing spiritual & worldly life) | 5/1 |
+| [Watch](https://www.youtube.com/watch?v=roDsYPG6st8) | అద్భుతమైన వాక్శుద్ధి ఎలా సాధించాలి? (Attractive / pure speech) | 10/2 |
+| [Watch](https://www.youtube.com/watch?v=E3bcYNfx8gA) | ఆడపిల్లల సత్వర కళ్యాణానికి (Early marriage for women) | 12/2 |
+| [Watch](https://www.youtube.com/watch?v=CQKRHfg1uUo) | భార్యా భర్తల మధ్య గొడవలు రాకుండా ఉండాలంటే (Marital harmony / preventing disputes) | 14/1 |
+| [Watch](https://www.youtube.com/watch?v=kZamiMSPDAU) | మీ మాటల్లో మాధుర్యాన్ని కలిగించే దివ్య స్తోత్రం (Sweet / musical voice) | 11/1 |
+| [Watch](https://www.youtube.com/watch?v=lwzajVeuoKY) | మోకాలి నొప్పులు తగ్గడానికి అద్భుతమైన స్తోత్రం (Relief from knee joint pains) | 17/2 |
+| [Watch](https://www.youtube.com/watch?v=RDETYia9Dkg) | వెరికోస్ వేయిన్స్ నివారణకు శక్తివంతమైన స్తోత్రం (Varicose veins relief) | 18/1 |
+| [Watch](https://www.youtube.com/watch?v=8rvgCYEI5JQ) | స్త్రీల నడకలో ఆకర్షణ పెంపొందించే అమోఘమైన స్తోత్రం (Graceful walking & attractive posture) | 20/2 |
+| [Watch](https://www.youtube.com/watch?v=vT6rpyzF7Ds) | సౌందర్యాన్ని ప్రసాదించే అద్భుతమైన స్తోత్రం (Beauty & grace) | 21/1 |
+| [Watch](https://www.youtube.com/watch?v=DqVflt4Sk-I) | భార్యా భర్తలు అన్యోన్యంగా ఉండాలంటే (Strengthening marital affection) | 21/2 |
+| [Watch](https://www.youtube.com/watch?v=KwSGRbnjMtg) | తలచినకోరికలను నెరవేర్చే శక్తివంతమైన స్తోత్రము (Fulfilling desires) | 22/2 |
+| [Watch](https://www.youtube.com/watch?v=czDJ3slo-Co) | కుండలిని జాగృతితో శాంతియుతమైన జీవితం కోసం (Kundalini awakening & peaceful life) | 23/1 |
+| [Watch](https://www.youtube.com/watch?v=jAB6dlAYWZ8) | ఎప్పటికీ ఉత్సాహంగా ఉండేందుకు పరిపూర్ణ​ శక్తి స్తోత్రం (Enthusiasm & overcoming lethargy) | 25/2 |
+| [Watch](https://www.youtube.com/watch?v=P4VupELGQqI) | ప్రణాళిక నైపుణ్యాన్నిపెంచి ప్రతీ పనిని విజయవంతం చేసే దివ్య స్తోత్రం (Strategic planning & execution) | 26/2 |
+| [Watch](https://www.youtube.com/watch?v=D14UizmfqFc) | తప్పులులేని, శుద్ధమైన ఉచ్చారణతో, శ్రీ లలితా సహస్రనామ స్తోత్రం 30 రోజుల్లో నేర్చుకోండి (30-day pronunciation guide) | — |
+| [Watch](https://www.youtube.com/watch?v=WsLOfi84EXA) | కోర్టు కేసుల సమస్యలపై విజయానికి లేదా వీర్య లోపం, డిప్రెషన్ తగ్గించడానికి (Court cases, impotency, depression) | 30/1 |
+| [Watch](https://www.youtube.com/watch?v=AqERSuLzQ1k) | మనలోని నెగటివిటీని పోగొట్టి, మన ఆలోచనలు స్పష్టంగా ఉండేలా చేసే స్తోత్రం (Overcoming inner negativity) | 29/1 |
+| [Watch](https://www.youtube.com/watch?v=yLW_z0OyGag) | మనసులో గందరగోళాన్ని తొలగించి, ప్రణాళిక నైపుణ్యాన్ని అభివృద్ధి చేసుకోండి (Removing mental confusion, planning) | 29/2 |
+| [Watch](https://www.youtube.com/watch?v=yVaPpbyD-s8) | సంతానప్రాప్తికి, లేదా ఏదైన మంచి కార్యారంభానికి సత్ఫలితాలను ఇచ్చే శక్తివంతమైన స్తోత్రం (Conceiving a child / auspicious beginnings) | 30/2 |
+| [Watch](https://www.youtube.com/watch?v=1zmUyX0e4Ro) | శ్రీ వారాహీ శక్తి సంపుటీకరణ విధానం (Varahi Devi Samputikarana combined with LSN) | Varahi + LSN |
+| [Watch](https://www.youtube.com/watch?v=HlTx3fsOrC0) | మంత్ర, యంత్ర​ దోషాలు, చేతబడి ప్రయోగాల నుండి రక్షించే మహత్తరమైన స్తోత్రం (Mantra/yantra doshas, evil eye / black magic) | 31/1 |
+| [Watch](https://www.youtube.com/watch?v=-_v78o86Zp8) | జీవితంలో సెలబ్రిటీలా పేరు, ప్రఖ్యాతి, వైభవం పొందాలని అనుకుంటున్నారా? (Celebrity name, fame, prestige & glory) | 33/2 |
+| [Watch](https://www.youtube.com/watch?v=6xrK8ddgeHk) | 90 రోజుల లలితా సహస్రనామ సంపుటీకరణ – జీవితంలోని అన్ని సమస్యలకు శక్తివంతమైన పరిష్కారం (90-day samputikarana guidelines & remedies) | 99/1 & Method |
+| [Watch](https://www.youtube.com/watch?v=LYebLlSt86o) | ఉద్యోగం, వ్యాపారంలో విజయానికి – ఆర్థిక కష్టాల నుంచి బయటపడేందుకు దివ్య స్తోత్రం (Job, business, financial relief) | 53/2 |
+| [Watch](https://www.youtube.com/watch?v=TYzO6xNES7E) | నెగటివ్ ఎనర్జీ, చెడు అలవాట్లు, వ్యసనాల నుండి బయటపడేందుకు శక్తివంతమైన స్తోత్రం (Negative energy, bad habits, addictions) | 51/1 |
+| [Watch](https://www.youtube.com/watch?v=Kt6tmuuhQ90) | ఉద్యోగ, వ్యాపారంలో విజయానికి, ఆర్థిక కష్టాల నుంచి బయటపడేందుకు ఇలా పఠించండి (Job, business, financial relief companion) | 53/2 |
+| [Watch](https://www.youtube.com/watch?v=EMhchJdyIAA) | Daily Pooja - Sri Lalita Astottara Satanamavali (Daily Ashtottara Satanamavali puja) | — |
+
+### Tamil Series Episode Index (11 Videos)
+
+| Video | Topic / Tamil Title | Śloka/line |
+| --- | --- | --- |
+| [Watch](https://www.youtube.com/watch?v=FxKA7kUaOgs) | அம்பிகையை உணர ஒரு எளிய ஸ்தோத்திரம் (Manifesting Divine Mother within) | 2/1 |
+| [Watch](https://www.youtube.com/watch?v=x-NRdlOPBb0) | உலக பந்தங்களை கட்டுக்குள் வைத்திருக்க உதவும் உயர்ந்த ஸ்தோத்திரம் (Controlling worldly desires) | 2/2 |
+| [Watch](https://www.youtube.com/watch?v=PlId_IAD758) | மனதை கட்டுப்படுத்த ஒரு அற்புதமான ஸ்தோத்திரம்! (Controlling restless mind / overthinking) | 3/1 |
+| [Watch](https://www.youtube.com/watch?v=vB2J5v54lKE) | நித்ய சைதன்யத்திற்க்கு ஒப்பற்ற மந்திரம் (Discovering eternal consciousness / self) | 3/2 |
+| [Watch](https://www.youtube.com/watch?v=NFCoIxQZgg8) | ஆன்மீக வாழ்வையும் உலக வாழ்க்கையையும் சமநிலைப்படுத்த ஒரு ஸ்தோத்திரம் (Balancing spiritual & worldly life) | 5/1 |
+| [Watch](https://www.youtube.com/watch?v=1mLSuEvdtk4) | எல்லோரையும் கவரும் பேச்சுத்திறமை பெற ஒரு உன்னத ஸ்தோத்திரம் (Attractive speech development) | 10/2 |
+| [Watch](https://www.youtube.com/watch?v=bwbIInzFj7c) | இசைக்காக குரலில் இனிமை பெருக ஒரு தெய்வீக ஸ்தோத்திரம் (Sweet / musical voice) | 11/1 |
+| [Watch](https://www.youtube.com/watch?v=Dho8FQtHY3s) | சீக்கிரமே திருமணம் நடக்க ஒரு சக்தி வாய்ந்த ஸ்தோத்திரம் (Early marriage for women) | 12/2 |
+| [Watch](https://www.youtube.com/watch?v=RLEDJgTkdQk) | வரிகோஸ் வெயின்ஸ் பிரச்சனைக்கு சிறந்த தீர்வு (Relief from varicose veins) | 18/1 |
+| [Watch](https://www.youtube.com/watch?v=rNgTSo2iAp0) | உங்கள் நடையில் அழகும் நளினமும் தரும் அற்புத ஸ்தோத்திரம் (Graceful walking & posture) | 20/2 |
+| [Watch](https://www.youtube.com/watch?v=tWvpTNv4QG8) | உள் மன அழகு, வெளிப் பொலிவு இரண்டையும் மேம்படுத்தும் சக்திவாய்ந்த ஸ்தோத்திரம் (Inner & outer beauty) | 21/1 |
 
 ### Key Explanatory, Conceptual & Additional Remedy Videos
 
